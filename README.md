@@ -18,9 +18,11 @@ The radx-kg links the following assets:
 - [Organizations](kg/data/nodes/Organization.csv)
 - Publications
 - Datasets
+- Data Dictionaries
 - Patents
 - Emergency Use Authorizations (EUAs)
 - Software Products
+- Viral Quality Assurance Panels
 
 ## Directories and Files
 
@@ -32,7 +34,7 @@ The radx-kg links the following assets:
 | scripts   | scripts to generate the Neo4j Knowledge Graph |
 
 ## Citation
-RADx-Rad Discoveries & Data: Consortium Coordination Center (DCC), radx-kg - Knowledge Graph of RADx electronic artifacts, Available online: https://github.com/radxrad/radx-kg (2023).
+RADx-Rad Discoveries & Data: Consortium Coordination Center (DCC), RADx Digital Assets Knowledge Graph (radx-kg), Available online: https://github.com/radxrad/radx-kg (2023).
 
 ## Funding
 Development of this application was supported by the OFFICE OF THE DIRECTOR, NATIONAL INSTITUTES OF HEALTH:
