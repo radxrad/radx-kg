@@ -3,6 +3,7 @@
 # This script runs the Neo4j bulk data import.
 #
 # Place a copy of this script outside this Git Repository and set the environment variables below.
+# See instructions to create a Neo4j KG using this script: https://github.com/sbl-sdsc/kg-import#kg-import
 #
 
 # Absolute path to Neo4j home directory
