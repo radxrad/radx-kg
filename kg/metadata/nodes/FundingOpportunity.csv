@@ -1,0 +1,4 @@
+property,type,description,example
+id,string,Unique identifier for the funding opportunity (Thesaurus:C20021),RFA-OD-20-014
+name,string,Name of the funding opportunity,Emergency Awards: Automatic Detection and Tracing of SARS-CoV-2 ...
+url,string,URL to funding opportunity description,https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-20-014.html

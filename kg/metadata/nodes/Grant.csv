@@ -1,0 +1,8 @@
+property,type,description,example
+id,string,Unique identifier for the grant (Thesaurus:C16644),U01AA029328
+name,string,Title of the project,Development of an Automated Diagnostic Platform for SARS-CoV-2 Monitoring in Vulnerable Areas
+abstract,string,Project abstract,The devastation caused by emerging pathogens ...
+narrative,string,Short description,The proposed research aims to develop a multiplex biosensor platform to support ...
+fundingMechanism,string,The type of award (Thesaurus:C20020),Non-SBIR/STTR
+awardCode,string,Code of award,U01
+researchInitiative,string,The initiative or program associated with this grant,RADx-rad

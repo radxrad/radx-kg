@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier for the funding agency (see https://doi.crossref.org/funderNames?mode=list),http://dx.doi.org/10.13039/100000052
+to,string,Unique identifier for the grant (Thesaurus:C16644),U01AA029328

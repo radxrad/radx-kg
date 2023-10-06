@@ -1,0 +1,4 @@
+property,type,description,example
+id,string,Unique identifier for the funding agency (id from https://doi.crossref.org/funderNames?mode=list),doi:10.13039/100000027
+name,string,Name of the funding agency (prefLabel from https://doi.crossref.org/funderNames?mode=list),National Institute on Alcohol Abuse and Alcoholism
+acronym,string,Acronym of the agency (acronym from https://doi.crossref.org/funderNames?mode=list),NIAAA

@@ -1,0 +1,4 @@
+property,type,description,example
+from,string,Unique identifier for the researcher,orcid:0000-0001-9858-0960
+to,string,US government-owned Unique Entity Identifier (UEI) for the organization (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-170.html),H2BMNX7DSKU8
+lastUpdated,int,NIH fiscal year this information was last updated,2022

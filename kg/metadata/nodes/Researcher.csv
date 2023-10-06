@@ -1,0 +1,7 @@
+property,type,description,example
+id,string,Unique identifier for the researcher (orcid preferred or NIH profile id),orcid:0000-0001-9858-0960
+name,string,Name of the researcher (lastname plus initials),Vanegas-Gamboa DC
+fullName,string,First middle and last name,Diana Carolina Vanegas-Gamboa
+firstName,string,First name,Diana
+middleName,string,Middle name or middle initial,Carolina
+lastName,string,Last name,Vanegas-Gamboa
