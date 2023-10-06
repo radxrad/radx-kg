@@ -23,9 +23,13 @@ The radx-kg links the following assets:
 - Software Products
 
 ## Directories and Files
-data - Grant, dbGaP, and PI information about the RADx projects
-kg - Node and relationship data and metadata files to create the Knowledge Graph
-scripts - Contains a script to create a Neo4j Knowledge Graph from the files in the kg directory
+
+| Directory | Description| 
+| ----------| ---------- |
+| data      | Grant, dbGaP, and PI information about RADx projects |
+| derived_data | Intermediate data |
+| kg        | Node and relationship data and metadata files to create the Knowledge Graph | 
+| scripts   | scripts to generate the Neo4j Knowledge Graph |
 
 ## Citation
 RADx-Rad Discoveries & Data: Consortium Coordination Center (DCC), radx-kg - Knowledge Graph of RADx electronic artifacts, Available online: https://github.com/radxrad/radx-kg (2023).
