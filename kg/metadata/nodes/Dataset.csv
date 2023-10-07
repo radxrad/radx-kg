@@ -1,3 +1,4 @@
 property,type,description,example
 id,string,Unique identifier for the dataset,dbgap:phs002546.v1.p1
-name,string,Name of the dataset,phs002546.v1.p1
+name,string,Name of the dataset,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Development of an Automated Diagnostic Platform for SARS-CoV-2 Monitoring in Vulnerable Areas
+url,string,URL to dataset landing page,https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002546.v1.p1

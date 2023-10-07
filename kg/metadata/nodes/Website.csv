@@ -1,0 +1,5 @@
+property,type,description,example
+id,string,Unique identifier of the website (url),https://radxrad.org/
+name,string,Name of the website,radxrad.org
+description,string,Description of the website,RADx Radical (RADx-rad) Data Coordination Center
+url,string,URL of the website,https://radxrad.org/
