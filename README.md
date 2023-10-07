@@ -30,20 +30,21 @@ The radx-kg links the following assets:
 <img src="docs/Metagraph.png", width="70%">
 </p>
 
-The meta graphs show the relationship among the nodes.
+The meta graphs show the relationship among the nodes. The Grant node is selected to display its metadata in the right panel.
 
 ## Example Subgraphs
-<p align="center">
-<img src="docs/RADx-subgraph.png", width="100%">
-</p>
-
-Entire subgraph of the RADx-rad project assets.
 
 <p align="center">
 <img src="docs/Example_subgraph.png", width="100%">
 </p>
 
-Subgraph of two wastewater projects.
+Subgraph of two wastewater projects with one Grant node selected to display its properties.
+
+<p align="center">
+<img src="docs/RADx-rad_subgraph.png", width="100%">
+</p>
+
+Entire subgraph of the RADx-rad project assets. The right panel shows the legend for the node labels and relationship types.
 
 ## Directories and Files
 
