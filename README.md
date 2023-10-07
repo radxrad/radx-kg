@@ -49,8 +49,8 @@ Subgraph of two wastewater projects.
 
 | Directory | Description| 
 | ----------| ---------- |
-| data      | Grant, dbGaP, and PI information about RADx projects |
-| derived_data | Intermediate data |
+| data      | Manually maintained files with core information to seed the Knowledge Graph |
+| derived_data | Intermediate data files used during development |
 | kg        | Node and relationship data and metadata files to create the Knowledge Graph | 
 | scripts   | scripts to generate the Neo4j Knowledge Graph |
 
