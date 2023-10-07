@@ -16,9 +16,9 @@ The radx-kg links the following assets:
 - [Grants](kg/data/nodes/Grant.csv)
 - [Researchers](kg/data/nodes/Researcher.csv)
 - [Organizations](kg/data/nodes/Organization.csv)
-- [CoordinationCenters](kg/data/nodes/CoordinationCenters.csv)
+- [CoordinationCenters](kg/data/nodes/CoordinationCenter.csv)
 - Publications
-- [Datasets](kg/data/nodes/Datasets.csv)
+- [Datasets](kg/data/nodes/Dataset.csv)
 - Data Dictionaries
 - Patents
 - Emergency Use Authorizations (EUAs)
@@ -27,20 +27,20 @@ The radx-kg links the following assets:
 
 ## Meta Graph
 <p align="center">
-<img src="docs/Metagraph.png", width="45%">
+<img src="docs/Metagraph.png", width="70%">
 </p>
 
 The meta graphs show the relationship among the nodes.
 
 ## Example Subgraphs
 <p align="center">
-<img src="docs/RADx-subgraph.png", width="60%">
+<img src="docs/RADx-subgraph.png", width="100%">
 </p>
 
 Entire subgraph of the RADx-rad project assets.
 
 <p align="center">
-<img src="docs/Example_subgraph.png", width="60%">
+<img src="docs/Example_subgraph.png", width="100%">
 </p>
 
 Subgraph of two wastewater projects.
