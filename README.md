@@ -30,7 +30,7 @@ The radx-kg links the following assets:
 <img src="docs/Metagraph.png", width="100%">
 </p>
 
-The meta graphs show the relationships among the nodes. The Grant node is selected to display its metadata in the right panel.
+The meta graph show the relationships among the nodes. The Grant node is selected to display its metadata in the right panel. (Click on image for a higher-resolution view).
 
 ## Example Subgraphs
 
