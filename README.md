@@ -24,6 +24,7 @@ The radx-kg links the following assets:
 - Emergency Use Authorizations (EUAs)
 - Software Products
 - Viral Quality Assurance Panels
+- [Events](kg/data/nodes/Event.csv)
 
 ## Meta Graph
 Click on the images below for a higher-resolution view.

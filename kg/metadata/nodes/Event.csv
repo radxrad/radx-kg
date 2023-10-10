@@ -1,0 +1,10 @@
+property,type,description,example
+id,string,Unique identifier of the event,
+name,string,Name of the event,
+eventType,string,"Type of event: webinar, virtual conference, in-person conference, hybrid conference, virtual workshop, in-person workshop, hybrid workshop"
+eventUrl,string,URL of the event website,
+presentationUrls,string[],List of URLs to presenations,
+videoUrls,string[],List of URLs to presentation videos,
+startDate,date,Start date of event,
+endDate,date,End data of event,
+location,string,"Location of event (City, State, Country)",
