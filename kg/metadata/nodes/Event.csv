@@ -1,5 +1,5 @@
 property,type,description,example
-id,string,Unique identifier of the event,
+id,string,Unique identifier of the event (date and event number),
 name,string,Name of the event,
 eventType,string,"Type of event: webinar, virtual conference, in-person conference, hybrid conference, virtual workshop, in-person workshop, hybrid workshop"
 eventUrl,string,URL of the event website,
@@ -9,4 +9,4 @@ startDate,date,Start date of event,
 endDate,date,End data of event,
 city,string,City of event location,
 state,string,State of province of the event location,
-country,Country of event loaction,
+country,string,Country of event loaction,
