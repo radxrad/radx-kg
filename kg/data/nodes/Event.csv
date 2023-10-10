@@ -1,8 +1,8 @@
 id,name,eventType,eventUrl,presentationUrls,videoUrls,startDate,endDate,city,state,country
-2021-02-22,RADx-rad Kickoff Webinar 2021,webinar,https://www.nih.gov/research-training/medical-research-initiatives/radx/events,https://www.nih.gov/sites/default/files/research-training/initiatives/radx/20210308-RADx-rad-kickoff.pdf,https://www.youtube.com/watch?v=6OqJzr0MDmQ,2021-02-22,2021-02-22,,,
-2022-11-18,7th Annual MetaSUB Conference GLOBAL METAGENOMICS SUMMIT,in-person conference,http://metasub.org/2022-conference/,,,2022-11-18,2022-11-21,Miami Beach,FL,USA
-2023-09-22,RADx-rad 2023 Conference,virtual conference,https://www.radxrad.org/event/radx-rad-2023-conference-final-conference/,,,2023-09-21,2023-09-22,,,
-2023-11-07,Towards Universal Chemosensory Testing TUCT 2023,hybrid conference,https://smellandtastetestingforall.monell.org/,,,2023-11-05,2023-11-07,Philadelphia,PA,USA
+2021-02-22_E1,RADx-rad Kickoff Webinar 2021,webinar,https://www.nih.gov/research-training/medical-research-initiatives/radx/events,https://www.nih.gov/sites/default/files/research-training/initiatives/radx/20210308-RADx-rad-kickoff.pdf,https://www.youtube.com/watch?v=6OqJzr0MDmQ,2021-02-22,2021-02-22,,,
+2022-11-18_E1,7th Annual MetaSUB Conference GLOBAL METAGENOMICS SUMMIT,in-person conference,http://metasub.org/2022-conference/,,,2022-11-18,2022-11-21,Miami Beach,FL,USA
+2023-09-21_E1,RADx-rad 2023 Conference,virtual conference,https://www.radxrad.org/event/radx-rad-2023-conference-final-conference/,,,2023-09-21,2023-09-22,,,
+2023-11-07_E1,Towards Universal Chemosensory Testing TUCT 2023,hybrid conference,https://smellandtastetestingforall.monell.org/,,,2023-11-05,2023-11-07,Philadelphia,PA,USA
 
 
 
