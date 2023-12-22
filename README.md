@@ -16,7 +16,8 @@ The radx-kg links the following assets:
 - [Researchers](kg/data/nodes/Researcher.csv)
 - [Organizations](kg/data/nodes/Organization.csv)
 - [CoordinationCenters](kg/data/nodes/CoordinationCenter.csv)
-- [Publications](kg/data/nodes/Publication.csv)
+- [Publications (primary)](kg/data/nodes/Publication_primary.csv)
+- [Publications (secondary)](kg/data/nodes/Publication_secondary.csv)
 - [Datasets](kg/data/nodes/Dataset.csv)
 - Data Dictionaries
 - [Patents](kg/data/nodes/Patent.csv)
