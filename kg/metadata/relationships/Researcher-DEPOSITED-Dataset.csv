@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier for the researcher,profileid:77816868
+to,string,Unique identifier (CRUIE preferred) for the dataset,dbgap:phs002546.v1.p1
