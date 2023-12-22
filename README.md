@@ -12,15 +12,14 @@ The RADx initiative includes the follwing projects:
 
 The radx-kg links the following assets:
 - [Funding Opportunities](kg/data/nodes/FundingOpportunity.csv)
-- Funding Agencies
 - [Grants](kg/data/nodes/Grant.csv)
 - [Researchers](kg/data/nodes/Researcher.csv)
 - [Organizations](kg/data/nodes/Organization.csv)
 - [CoordinationCenters](kg/data/nodes/CoordinationCenter.csv)
-- Publications
+- [Publications](kg/data/nodes/Publication.csv)
 - [Datasets](kg/data/nodes/Dataset.csv)
 - Data Dictionaries
-- Patents
+- [Patents](kg/data/nodes/Patent.csv)
 - Emergency Use Authorizations (EUAs)
 - Software Products
 - Viral Quality Assurance Panels
@@ -33,7 +32,7 @@ Click on the images below for a higher-resolution view.
 <img src="docs/Metagraph.png", width="100%">
 </p>
 
-The meta graph show the relationships among the nodes. The Grant node is selected to display its metadata in the right panel.
+Figure 1: The meta graph shows the relationships among the nodes.
 
 ## Example Subgraphs
 
@@ -41,14 +40,8 @@ The meta graph show the relationships among the nodes. The Grant node is selecte
 <img src="docs/Subgraph2.png", width="100%">
 </p>
 
-A: Subgraph for PI John Cirrito, B: Properties of a patent, C: Color legend for nodes
+Figure 2: (A) Subgraph for PI John Cirrito, (B) Properties of a patent, (C) Color legend for nodes
 
-
-<p align="center">
-<img src="docs/RADx-rad_subgraph.png", width="100%">
-</p>
-
-Entire subgraph of the RADx-rad project assets. The right panel shows the legend for the node labels and relationship types.
 
 ## Directories and Files
 
