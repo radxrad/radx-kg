@@ -1,8 +1,11 @@
 property,type,description,example
-id,string,US government-owned Unique Entity Identifier (UEI) for the organization (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-170.html),H2BMNX7DSKU8
+id,string,"Unique entity identifier: ror id if available, otherwise uei id",ror:037s24f05
 name,string,Name of the organization,CLEMSON UNIVERSITY
 city,string,City of the organization,CLEMSON
-zipcode,string,Zipcode of the organization,296340001
 state,string,State of the organization,SC
 country,string,Country of the organization,UNITED STATES
-dunsId,string,Data Universal Numbering System (DUNS) by Dun & Bradstreet,042629816
+ror,string,Research Organization Registry id of the organization from https://ror.org/,ror:037s24f05
+uei,string,US government-owned Unique Entity Identifier (UEI) for the organization (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-170.html),uei:H2BMNX7DSKU8
+duns,string,Data Universal Numbering System (DUNS) by Dun & Bradstreet,042629816
+geonames,string,Unique identifier for geolocation from https://www.geonames.org/,geonames:4574989
+url,string,Research Organization Registry landing page of the organization,https://ror.org/037s24f05

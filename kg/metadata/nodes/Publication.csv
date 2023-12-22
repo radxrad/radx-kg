@@ -1,5 +1,11 @@
 property,type,description,example
 id,string,Unique identifier for the publication,doi:0.1371/journal.pone.0290256
 name,string,Title of the publication,A capacitive laser-induced graphene based aptasensor for SARS-CoV-2 detection ...
+abstract,string,Abstract of the publication,SARS-CoV-2 virus induced CoVID-19 pandemic has accelerated the development of ...
 journal,string,Name of the journal,PLoS One
 year,int,Year of publication,2023
+type,string,primary or secondary citation,primary
+doi,string,Digital Object Identifier of the publication,doi:0.1371/journal.pone.0290256
+pmId,string,PubMed identifier of the publication,37590297
+pmcId,string,PubMedCentral identifier of the publication full text entry,PMC10434860
+url,string,URL of publication,https://doi.org/10.1371%2Fjournal.pone.0290256

@@ -1,4 +1,0 @@
-property,type,description,example
-from,string,Unique identifier for the researcher,orcid:0000-0001-9858-0960
-to,string,Unique identifier for the grant without prefix or suffix,U01AA029328
-isContactPi,boolean,True if researcher is the contact PI,true

@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier for the researcher,profileid:8127079
+to,string,Unique identifier for the patent,US11740171B2

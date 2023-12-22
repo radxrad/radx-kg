@@ -14,5 +14,9 @@ dependencies:
   - levenshtein
   - titlecase
   - tqdm
+  - matplotlib
+  - scikit-learn
+  - python-dotenv
   - black
+  - fake-useragent
 

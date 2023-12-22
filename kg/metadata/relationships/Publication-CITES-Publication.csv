@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,DOI of citing publication,doi:10.3390/chemosensors11030203
+to,string,DOI of cited publication,doi:10.3390/bios12110938

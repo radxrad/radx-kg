@@ -38,10 +38,11 @@ The meta graph show the relationships among the nodes. The Grant node is selecte
 ## Example Subgraphs
 
 <p align="center">
-<img src="docs/Example_subgraph.png", width="100%">
+<img src="docs/Subgraph2.png", width="100%">
 </p>
 
-Subgraph of two wastewater projects with one Grant node selected to display its properties.
+A: Subgraph for PI John Cirrito, B: Properties of a patent, C: Color legend for nodes
+
 
 <p align="center">
 <img src="docs/RADx-rad_subgraph.png", width="100%">
