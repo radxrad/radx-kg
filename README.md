@@ -43,6 +43,17 @@ Figure 1: The meta graph shows the relationships among the nodes.
 
 Figure 2: (A) Subgraph for PI John Cirrito, (B) Properties of a patent, (C) Color legend for nodes
 
+<p align="center">
+<img src="docs/Subgraph3.png", width="100%">
+</p>
+
+Figure 3: Subgraph for PI David Wong
+
+<p align="center">
+<img src="docs/Subgraph4.png", width="100%">
+</p>
+
+Figure 4: Subgraph for PI Jesse Jokerts
 
 ## Directories and Files
 
