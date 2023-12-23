@@ -1,0 +1,6 @@
+property,type,description,example
+id,string,Unique identifier of the presentation (hash of event id and name),cf197e5a369f99145e525699089439fb
+name,string,Title of the presentation,COVID-19 detection through scent analysis with a compact GC device
+presenters,string,List of presenters separated by the vertical bar "|",Xudong Fan
+presentationUrl,string,URL of the presentation link,
+videoUrl,string,URL of the presentation recording,

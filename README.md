@@ -39,7 +39,7 @@ Figure 1: The meta graph shows the relationships among the nodes.
 
 
 <p align="center">
-<img src="docs/Subgraph5.png", width="100%">
+<img src="docs/Subgraph1.png", width="100%">
 </p>
 
 Figure 2: Projects supported by the RADx-rad DCC
@@ -61,6 +61,12 @@ Figure 4: Subgraph for PI David Wong
 </p>
 
 Figure 5: Subgraph for PI Jesse Jokerts
+
+<p align="center">
+<img src="docs/Subgraph5.png", width="100%">
+</p>
+
+Figure 6: Subgraph for University of Miami
 
 ## Directories and Files
 

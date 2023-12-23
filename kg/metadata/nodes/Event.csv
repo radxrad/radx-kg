@@ -1,12 +1,10 @@
 property,type,description,example
-id,string,Unique identifier of the event (date and event number),
-name,string,Name of the event,
-eventType,string,"Type of event: webinar, virtual conference, in-person conference, hybrid conference, virtual workshop, in-person workshop, hybrid workshop"
-eventUrl,string,URL of the event website,
-presentationUrls,string[],List of URLs to presenations,
-videoUrls,string[],List of URLs to presentation videos,
-startDate,date,Start date of event,
-endDate,date,End data of event,
+id,string,Unique identifier of the event (date and event number),2023-09-21_E1
+name,string,Name of the event,RADx-rad 2023 Conference
+eventType,string,"Type of event: webinar, virtual conference, in-person conference, hybrid conference, virtual workshop, in-person workshop, hybrid workshop",webinar
+eventUrl,string,URL of the event website,https://www.radxrad.org/event/radx-rad-2023-conference-final-conference/	2023-09-
+startDate,date,Start date of event,2023-09-21
+endDate,date,End data of event,2023-09-21
 city,string,City of event location,
-state,string,State of province of the event location,
-country,string,Country of event loaction,
+state,string,State or province of the event location,
+country,string,Country of event location,

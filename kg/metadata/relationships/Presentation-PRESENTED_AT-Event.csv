@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier for the presentation,cf197e5a369f99145e525699089439fb
+to,string,Unique identifier for the event,2023-09-21_E1

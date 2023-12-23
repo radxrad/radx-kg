@@ -1,3 +1,0 @@
-property,type,description,example
-from,string,Unique identifier for the event,2023-09-21_E1
-to,string,Unique identifier for the coordination center,RADx-rad
