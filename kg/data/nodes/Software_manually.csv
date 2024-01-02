@@ -1,0 +1,6 @@
+id,name,description,url
+github:radxrad/radx-kg,radx-kg,Knowledge Graph of Digital Assets from the NIH Rapid Acceleration of Diagnostics (RADx) initiative.,https://github.com/radxrad/radx-kg
+github:radxrad/dbgap-reporter,dbgap-reporter,Jupyter Notebooks to analyze the number of data access requests for dbGaP datasets and publication including RADx datasets.,https://github.com/radxrad/dbgap-reporter
+github:center4health/covid-counter,covid-counter,Tools for counting covid sequences.,https://github.com/center4health/covid-counter
+github:DBMI/auspice_radx,auspice_radx,Web app for visualizing pathogen evolution.,https://github.com/DBMI/auspice_radx
+github:ZooPhy/radx,radx,RADx-rad pipeline for metagenomic data and analysis of SARS-CoV-2 from wastewater.,https://github.com/ZooPhy/radx

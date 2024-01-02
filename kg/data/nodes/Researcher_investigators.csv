@@ -1,7 +1,9 @@
 id,name,fullName,firstName,middleName,lastName,orcid,profileId
 profileid:8668731,Salaita KS,Khalid S Salaita,Khalid,S,Salaita,orcid:0000-0003-4138-3477,profileid:8668731
 profileid:8956784,Stott SL,Shannon L Stott,Shannon,L,Stott,orcid:0000-0002-0349-0522,profileid:8956784
-profileid:9198778,Odom John AR,Audrey Ragan Odom John,Audrey,Ragan,Odom John,orcid:0000-0001-8395-8537,profileid:9198778
+profileid:9198778,Odom John AR,Audrey Ragan Odom John,Audrey,Ragan,Odom John,,profileid:9198778
+profileid:14135419,De Vlaminck I,Iwijn De Vlaminck,Iwijn,,De Vlaminck,,profileid:14135419
+profileid:1880742,Kohn JB,Joachim B Kohn,Joachim,B,Kohn,,profileid:1880742
 profileid:1896926,Travers SP,Susan P Travers,Susan,P,Travers,orcid:0000-0001-8730-3618,profileid:1896926
 profileid:78421272,Ly J,Jeffrey Ly,Jeffrey,,Ly,,profileid:78421272
 profileid:77861758,Yao X,Xiaohu Yao,Xiaohu,,Yao,,profileid:77861758
@@ -18,7 +20,6 @@ profileid:7086603,Grant SA,Sheila Ann Grant,Sheila,Ann,Grant,orcid:0000-0003-100
 profileid:1897028,Fay WP,William P Fay,William,P,Fay,orcid:0000-0001-9102-4216,profileid:1897028
 profileid:10450719,Aronoff-Spencer ES,Eliah S Aronoff-Spencer,Eliah,S,Aronoff-Spencer,orcid:0000-0002-6279-5027,profileid:10450719
 profileid:9436729,Dillard DA,Denise A Dillard,Denise,A,Dillard,orcid:0000-0003-2969-7385,profileid:9436729
-profileid:14135419,De Vlaminck I,Iwijn De Vlaminck,Iwijn,,De Vlaminck,orcid:0000-0001-6085-7311,profileid:14135419
 profileid:1891108,Panettieri RA,Reynold Alexander Panettieri,Reynold,Alexander,Panettieri,orcid:0000-0003-0834-4636,profileid:1891108
 profileid:6406851,Pasqualini R,Renata Pasqualini,Renata,,Pasqualini,orcid:0000-0002-4155-9324,profileid:6406851
 profileid:9845089,Libutti SK,Steven K Libutti,Steven,K,Libutti,orcid:0000-0003-2313-9809,profileid:9845089
@@ -37,18 +38,17 @@ profileid:9493483,Huang T,Tony Jun Huang,Tony Jun,,Huang,,profileid:9493483
 profileid:12081117,Xie Y,Ya-Hong Xie,Ya-Hong,,Xie,orcid:0000-0003-0971-4280,profileid:12081117
 profileid:6951767,Kim Y,Yong Kim,Yong,,Kim,orcid:0000-0001-7224-0503,profileid:6951767
 profileid:15877233,Turpin WM,William Monroe Turpin,William,Monroe,Turpin,orcid:0000-0002-3616-5216,profileid:15877233
+profileid:1858811,Golan DE,David E Golan,David,E,Golan,,profileid:1858811
 profileid:8614812,Parrish JA,John A Parrish,John,A,Parrish,,profileid:8614812
 profileid:15312069,Keady PB,Patricia Bea Keady,Patricia,Bea,Keady,orcid:0000-0001-9612-0960,profileid:15312069
 profileid:10938548,Wang K,Kai Wang,Kai,,Wang,,profileid:10938548
-profileid:1858811,Golan DE,David E Golan,David,E,Golan,,profileid:1858811
-profileid:1880742,Kohn JB,Joachim B Kohn,Joachim,B,Kohn,,profileid:1880742
 orcid:0000-0002-3793-8014,DeMauro EP,Edward P DeMauro,Edward,P,DeMauro,orcid:0000-0002-3793-8014,
-profileid:11198751,Shafiee H,Hadi Shafiee,Hadi,,Shafiee,orcid:0000-0003-2240-7648,profileid:11198751
+orcid:0000-0003-2240-7648,Shafiee H,Hadi Shafiee,Hadi,,Shafiee,orcid:0000-0003-2240-7648,
 profileid:8139237,Unlu S,Selim Unlu,Selim,,Unlu,orcid:0000-0002-8594-892X,profileid:8139237
 orcid:0000-0002-5128-9532,Gordon T,Timothy Gordon,Timothy,,Gordon,orcid:0000-0002-5128-9532,
 orcid:0000-0002-3884-5127,MacKenzie D,Devin MacKenzie,Devin,,MacKenzie,orcid:0000-0002-3884-5127,
-profileid:8127079,Huang J,Jie Huang,Jie,,Huang,,profileid:8127079
-profileid:15221225,Keck JW,James W Keck,James,W,Keck,orcid:0000-0001-7193-065X,profileid:15221225
+orcid:0000-0002-8659-2910,Huang J,Jie Huang,Jie,,Huang,orcid:0000-0002-8659-2910,
+orcid:0000-0001-7193-065X,Keck JW,James W Keck,James,W,Keck,orcid:0000-0001-7193-065X,
 profileid:9733196,Uhlemann A,Anne-Catrin Uhlemann,Anne-Catrin,,Uhlemann,orcid:0000-0002-9798-4768,profileid:9733196
 profileid:10349485,Das S,Samarjit Das,Samarjit,,Das,,profileid:10349485
 profileid:10129440,Noble RT,Rachel Todd Noble,Rachel,Todd,Noble,orcid:0000-0001-9071-8312,profileid:10129440

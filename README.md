@@ -15,15 +15,12 @@ The radx-kg links the following assets:
 - [Grants](kg/data/nodes/Grant.csv)
 - [Researchers](kg/data/nodes/Researcher.csv)
 - [Organizations](kg/data/nodes/Organization.csv)
-- [CoordinationCenters](kg/data/nodes/CoordinationCenter.csv)
+- [ResearchInitiatives](kg/data/nodes/ResearchInitiative.csv)
 - [Publications (primary)](kg/data/nodes/Publication_primary.csv)
 - [Publications (secondary)](kg/data/nodes/Publication_secondary.csv)
 - [Datasets](kg/data/nodes/Dataset.csv)
-- Data Dictionaries
+- [Software](kg/data/nodes/Software.csv)
 - [Patents](kg/data/nodes/Patent.csv)
-- Emergency Use Authorizations (EUAs)
-- Software Products
-- Viral Quality Assurance Panels
 - [Events](kg/data/nodes/Event.csv)
 
 ## Meta Graph
@@ -48,13 +45,18 @@ Figure 2: Projects supported by the RADx-rad DCC
 <img src="docs/Subgraph2.png", width="100%">
 </p>
 
-Figure 3: (A) Subgraph for PI John Cirrito, (B) Properties of a patent, (C) Color legend for nodes
+Figure 2: Subgraph for PI John Cirrito.
 
 <p align="center">
 <img src="docs/Subgraph3.png", width="100%">
 </p>
 
-Figure 4: Subgraph for PI David Wong
+Figure 3: Extended Subgraph for PI John Cirrito with paper citations and dataset usages.
+
+<!-- <p align="center">
+<img src="docs/Subgraph3.png", width="100%">
+</p> -->
+<!-- Figure 4: Subgraph for PI David Wong
 
 <p align="center">
 <img src="docs/Subgraph4.png", width="100%">
@@ -66,7 +68,7 @@ Figure 5: Subgraph for PI Jesse Jokerts
 <img src="docs/Subgraph5.png", width="100%">
 </p>
 
-Figure 6: Subgraph for University of Miami
+Figure 6: Subgraph for University of Miami -->
 
 ## Directories and Files
 
@@ -83,4 +85,4 @@ RADx-Rad Discoveries & Data: Consortium Coordination Center (DCC), RADx Digital 
 ## Funding
 Development of this application was supported by the OFFICE OF THE DIRECTOR, NATIONAL INSTITUTES OF HEALTH:
 
-**RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization** ([7U24LM013755](https://reporter.nih.gov/project-details/10745886))
+**RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization** ([U24LM013755](https://reporter.nih.gov/project-details/10745886))

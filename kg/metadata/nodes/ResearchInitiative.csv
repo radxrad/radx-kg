@@ -1,0 +1,8 @@
+property,type,description,example
+id,string,Unique id of the research initiative,RADx-rad
+name,string,Abbreviation of the research initiative,RADx-rad
+longName,string,Long name for research initiative,RADx-rad Discoveries and Data Coordinating Center (DCC)
+description,string,Description of the research initiative,"The RADx-rad DCC facilitate data collection, harmonization, and sharing, as well as to provide standardized viral samples and testing protocols to support RADx-rad awardees"
+researchInitiativeUrl,string,Description of the research initiative that funded the research initiative,https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-rad
+url,string,URL of the research initiative website,https://radxrad.org/
+websites,string[],URLs of related websites,https://radxlab.org|https://github.com/radxrad

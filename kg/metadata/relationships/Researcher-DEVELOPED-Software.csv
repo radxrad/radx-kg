@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier for the researcher,profileId:9089979
+to,string,Unique identifier for the software application or software repository,github:radxrad/radx-kg

@@ -1,4 +1,4 @@
-researchInitiative,dbgapAccession,projectNum,coreProjectNum,projectSerialNum,studyInvestigator,studyTitle
+radx_project,dbgap_accession,project_num,core_project_num,project_serial_num,principal_investigator,study_title
 RADx-rad,phs002744.v1.p1,U01AA029345,U01AA029345,AA029345,Khalid Salaita,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Rolosense: An Innovative Platform for Automatic Mobile Phone Readout of Active SARS-CoV-2
 RADx-UP,phs002775.v1.p1,U54GM115677,U54GM115677,GM115677,Sharon Rounds,Rapid Acceleration of Diagnostics - Underserved Populations (RADx-UP):  Developing a Realtime Monitoring System and Program to Improve COVID-19 Testing for Latinx Populations
 RADx-UP,phs002761.v1.p1,3UL1TR003167-02S1,UL1TR003167,TR003167,David McPherson,Rapid Acceleration of Diagnostics - Underserved Populations (RADx-UP): Addressing COVID-19 Testing Disparities in Vulnerable Populations Using a Community JITAI (Just in Time Adaptive Intervention) Approach-A UTHealth  A UTHealth CTSA Program
@@ -23,20 +23,22 @@ RADx-DHT,phs002534.v1.p1,75N91020C00037,75N91020C00037,75N91020C00037,Robert Wal
 RADx-DHT,phs002628.v1.p1,75N91020C00035,75N91020C00035,75N91020C00035,Adarbad Master,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): Digital Health Solutions for COVID-19: Clear2G
 RADx-DHT,phs002538.v1.p1,75N91020C00034,75N91020C00034,75N91020C00034,Ernesto Ramirez,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): ILI Labels and Longitudinal Novel Engagement with Symptom Surveillance (ILLNESS) Study
 RADx-DHT,phs002539.v1.p1,75N91020C00034,75N91020C00034,75N91020C00034,Ernesto Ramirez,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): Large Scale Flu Surveillance Study (LSFS)
+RADx-DHT,phs002516.v1.p1,75N91020C00036-0-999-1,75N91020C00036,75N91020C00036,Teresa Gibson,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): NIH Digital Health Solutions for COVID-19
 RADx-DHT,phs002535.v1.p1,75N91020C00040,75N91020C00040,75N91020C00040,Karen Larimer,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): Personalized Analytics and Wearable Biosensor Platform for Early Detection of Covid-19 Decompensation (DECODE)
 RADx-DHT,phs002540.v1.p1,75N92020P00146,75N92020P00146,75N92020P00146,Vik Kheterpal,Rapid Acceleration of Diagnostics - Digital Health (RADx-DH): SAFER-COVID
 RADx-rad,phs002604.v1.p1,1U01DA053949-01,U01DA053949,DA053949,Anne-Catrin Uhlemann,Rapid Acceleration of Diagnostics - RADICAL (RADx-rad):  Tracking the COVID-19 Epidemic in Sewage (TRACES)
-RADx-rad,phs002583.v1.p1,5U01HL150852-02,U01HL150852,HL150852,Edward P DeMauro,Rapid Acceleration of Diagnostics - Radical  (RADx-rad):  A Rapid Breathalyzer Diagnostics Platform for COVID-19
-RADx-rad,phs002603.v1.p1,3R33HD105594-03S1,R33HD105594,HD105594,Audrey Odom-John,Rapid Acceleration of Diagnostics - Radical  (RADx-rad): Diagnosis of MIS-C in Febrile Children
+RADx-rad,phs002583.v1.p1,5U01HL150852-02,U01HL150852,HL150852,Edward DeMauro,Rapid Acceleration of Diagnostics - Radical  (RADx-rad):  A Rapid Breathalyzer Diagnostics Platform for COVID-19
+RADx-rad,phs002603.v1.p1,3R33HD105594-03S1,R33HD105594,HD105594,Audrey Odom John,Rapid Acceleration of Diagnostics - Radical  (RADx-rad): Diagnosis of MIS-C in Febrile Children
 RADx-rad,phs002642.v1.p1,R01DC016112,R01DC016112,DC016112,Susan Travers,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  A Confectionary-based Screening Tool for Assessing Chemosensory Loss in COVID-19 Patients
 RADx-rad,phs002702.v1.p1,1R44DE030842-01,R44DE030842,DE030842,Jeffrey Ly,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  A Scalable Aptamer-based Electrochemical Biosensor For Rapid Detection of SARS-CoV-2 From Saliva
-RADx-rad,phs002685.v1.p1,1R44DE030852-01,R44DE030852,DE030852,Xiaohu Yao,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  DNA Star SAS-CoV-2 Rapid Test
+RADx-rad,phs002685.v1.p1,1R44DE030852-01,R44DE030852,DE030852,Yao Xiaohu,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  DNA Star SAS-CoV-2 Rapid Test
 RADx-rad,phs003124.v1.p1,1U18TR003780-01,U18TR003780,TR003780,Samarjit Das,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  Exosome-based Non-traditional Technologies Towards Multi-Parametric and Integrated Approaches for SARS-CoV-2
 RADx-rad,phs002729.v1.p1,1U01DA053899-01,U01DA053899,DA053899,Rachel Noble,"Rapid Acceleration of Diagnostics - Radical (RADx-rad):  Improved Scalability, Sensitivity, and Interpretability of Pathogen Detection, Including SARS-CoV-2, in Wastewater using High-Throughput, Highly Multiplexed Digital Array PCR Technology"
 RADx-rad,phs002964.v1.p1,U01DC019579,U01DC019579,DC019579,Mark Albers,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  Longitudinal at Home Smell Testing to Detect Infection by SARS-C
 RADx-rad,phs002782.v1.p1,1ZIAES103366-02,ZIAES103366,ES103366,Douglas Bell,Rapid Acceleration of Diagnostics - Radical (RADx-rad):  NIEHS Diagnostic-Prognostic RNAseq
 RADx-rad,phs002945.v1.p1,R61HD105591,R61HD105591,HD105591,Cedric Manlhiot,Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Data Science Approach to Identify and Manage Multisystem Inflammatory Syndrome in Children (MIS-C) Associated With SARS-CoV-2 Infection and Kawasaki Disease in Pediatric Patients
 RADx-rad,phs002563.v1.p1,1U18TR003787-01,U18TR003787,TR003787,Xiao-An Fu,Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Handheld Microchip for GC Analysis of Breath to Screen for COVID-19
+RADx-rad,phs002574.v1.p1,1R42DE030829-01,R42DE030829,DE030829,Roya Khosravi-Far,Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Multimodal Platform for Oral Screening of COVID
 RADx-rad,phs002570.v1.p1,1R42DE030829-01,R42DE030829,DE030829,Roya Khosravi-Far,Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Multimodal Platform for Oral Screening of COVID-19
 RADx-rad,phs002689.v1.p1,U54HL119145,U54HL119145,HL119145,Joseph Loscalzo,Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Rapid Saliva Antigen Test for SARs-CoV-2 Detection
 RADx-rad,phs002561.v1.p1,4U54HL119145-08,U54HL119145,HL119145,Hadi Shafiee,"Rapid Acceleration of Diagnostics - Radical (RADx-rad): A Rapid, Sensitive, Point-of- care, Antigen-based Diagnostics for SARS-CoV-2"
@@ -70,7 +72,7 @@ RADx-rad,phs002565.v1.p1,1U01AA029316,U01AA029316,AA029316,Suzie Pun,"Rapid Acce
 RADx-rad,phs002524.v1.p1,R01DE031114,R01DE031114,DE031114,Jesse Jokerst,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Validation of Smart Masks for Surveillance of COVID-19
 RADx-rad,phs002602.v1.p1,4U54HL119145-08,U54HL119145,HL119145,Selim Unlu,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Virus Counter: Rapid and Sensitive Diagnostics Based on Digital Detection of Individual Pathogens
 RADx-rad,PENDING TRIBAL DATA TRANSFER AND USE AGREEMENT RECEIPT,1U01DA053976-01,U01DA053976,DA053976,Otakuye Conroy-Ben,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Wastewater Analysis of SARS-CoV-2 in Tribal Communit
-RADx-rad,phs002542.v1.p1,U01DA053903,U01DA053903,DA053903,James W Keck,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Wastewater Assessment for Coronavirus in Kentucky: Implementing Enhanced Surveillance Technology
+RADx-rad,phs002542.v1.p1,U01DA053903,U01DA053903,DA053903,James Keck,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Wastewater Assessment for Coronavirus in Kentucky: Implementing Enhanced Surveillance Technology
 RADx-rad,phs002679.v1.p1,U01DA053893-01,U01DA053893,DA053893,Jeff Wenzel,Rapid Acceleration of Diagnostics - Radical (RADx-rad): Wastewater Detection of COVID-19
 RADx-TECH,phs002736.v1.p1,U54HL143541,U54HL143541,HL143541,Laura Gibson,Rapid Acceleration of Diagnostics - TECH  (RADx-TECH):  Rapid Manufacturing Scale-up for Compact Point-of-Care EUA SARS-CoV-2 RT-PCR Test
 RADx-TECH,phs002737.v1.p1,U54HL143541,U54HL143541,HL143541,Laura Gibson,"Rapid Acceleration of Diagnostics - TECH (RADx-TECH): Accurate, Sensitive & Affordable POC and At Home Testing Device"

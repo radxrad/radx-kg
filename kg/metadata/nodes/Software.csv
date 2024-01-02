@@ -1,0 +1,5 @@
+property,type,description,example
+id,string,Identifier of the software application or software repository,github:radxrad/radx-kg
+name,string,Name of the software application or software repository,radx-kg
+description,string,Description of the software or software repository,Knowledge Graph of Digital Assets from the NIH Rapid Acceleration of Diagnostics (RADx) initiative
+url,string,URL of the software application or software repository,https://github.com/radxrad/radx-kg
