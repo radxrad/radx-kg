@@ -45,13 +45,13 @@ Figure 2: Projects supported by the RADx-rad DCC
 <img src="docs/Subgraph2.png", width="100%">
 </p>
 
-Figure 2: Subgraph for PI John Cirrito.
+Figure 3: Subgraph for PI John Cirrito.
 
 <p align="center">
 <img src="docs/Subgraph3.png", width="100%">
 </p>
 
-Figure 3: Extended Subgraph for PI John Cirrito with paper citations and dataset usages.
+Figure 4: Extended Subgraph for PI John Cirrito with paper citations and dataset usages.
 
 <!-- <p align="center">
 <img src="docs/Subgraph3.png", width="100%">
