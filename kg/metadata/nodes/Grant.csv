@@ -6,3 +6,4 @@ narrative,string,Short description,The proposed research aims to develop a multi
 fundingMechanism,string,The type of award (Thesaurus:C20020),Non-SBIR/STTR
 awardCode,string,Code of award,U01
 researchInitiative,string,The initiative or program associated with this grant,RADx-rad
+subProject,string,A group of grants on related research areas,Automatic Detection & Tracing

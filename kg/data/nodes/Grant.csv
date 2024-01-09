@@ -1,4 +1,4 @@
-id,name,abstract,narrative,fundingMechanism,awardCode,researchInitiative
+id,name,abstract,narrative,fundingMechanism,awardCode,researchInitiative,subProject
 U01AA029345,Rolosense: An innovative platform for automatic mobile phone readout of active SARS-CoV-2 particles,"The ultimate goal of this proposal is to develop a novel platform technology for automatic surveillance
 and tracing of airborne SARS-CoV-2 virus particles in real time. The centerpiece of this proposal is the
 “Rolosense” technology which leverages a DNA micromotor as the virus sensing and transduction
@@ -27,7 +27,7 @@ immediate solution to today’s urgent virus sensing and tracing needs.","Public
 The aim of this proposal is to help reduce the spread of SARS-CoV-2 virus by
 developing a surveillance technology that allows for realtime and fully automated viral
 sensing. The approach uses a smart phone camera to detect the displacement of
-motors that are highly sensitive to the SARS-CoV-2 virus.",Non-SBIR/STTR,U01,RADx-rad
+motors that are highly sensitive to the SARS-CoV-2 virus.",Non-SBIR/STTR,U01,RADx-rad,Automatic Detection & Tracing
 U18TR003793,Microfluidic Isolation and Characterization of SARS-CoV-2 and Virus Related Exosomes,"Robust, efficient and reliable testing for SARS-CoV-2 is extraordinarily challenging due to our lack of ultra-
 sensitive assays and ever evolving knowledge of the virus. Standard PCR based assays still result in very high
 false negative rates in the earliest days of infection. Microfluidic processing of clinical samples is low cost and
@@ -46,7 +46,7 @@ test to be used in the clinic.","We will develop a SARS-CoV-2 detection assay us
 the EVHB-Chip. The high sensitivity and specificity of our technology allows for the isolation of rare nanoscale
 vesicles from complex biofluids. Based on our early data, we believe it is ideally suited for the isolation of SARS-
 CoV-2 virus particles and have established a strong team of collaborators to rapidly and efficiently lead us
-through assay development, validation, and clinical integration.",Other Research-Related,U18,RADx-rad
+through assay development, validation, and clinical integration.",Other Research-Related,U18,RADx-rad,Exosome
 U01DA053949,Optimizing SARS-CoV-2 wastewater based surveillance in urban and university campus settings.,"The novel coronavirus SARS-CoV-2 is causing significant morbidity and mortality. Current approaches to SARS-
 CoV-2 testing are costly, inconsistently implemented, and fail to rapidly identify evolving outbreaks. Innovative
 surveillance programs are urgently needed to better measure baseline transmission dynamics and anticipate
@@ -82,7 +82,7 @@ advantage of a diverse inner city urban campus encompassing undergraduate and po
 research buildings, and medical facilities, we will optimize WBT surveillance strategies of waste streams at the
 building level, surrounding sewersheds and wastewater treatment plants and model case counts using
 normalized WBT data. We will further leverage metatranscriptomics for rapid identification of SARS-CoV-2
-transmission chains and develop point-of-use microfluidics systems for timely WBT.",Non-SBIR/STTR,U01,RADx-rad
+transmission chains and develop point-of-use microfluidics systems for timely WBT.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U01HL150852,Rutgers Optimizes Innovation (ROI) Program,"The Rutgers Optimizes Innovation (ROI) Program will provide a vertically integrated mechanism to swiftly
 uncover promising biomedical product discoveries, and seamlessly guide the innovator through the
 commercialization process with financial and regulatory, IP protection, mentoring, management, and educational
@@ -115,7 +115,7 @@ serve as an active participating member. Importantly, evaluation milestones and 
 of the ROI Program to assure continuous quality assessment, improvement and sustainability.","The Rutgers Optimizes Innovation (ROI) Program will accelerate the transformation of the most promising
 research discoveries into marketed products designed to provide the right therapy to the right patient at
 the right time. By identifying and advancing the most promising and transformative therapeutic and diagnostic
-technologies in precision medicine, ROI will impact the health and well-being of a diverse society.",Non-SBIR/STTR,U01,RADx-rad
+technologies in precision medicine, ROI will impact the health and well-being of a diverse society.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
 R33HD105594,Diagnosis of MIS-C in febrile children,"The recent emergence of SARS-CoV-2 and resultant pandemic of COVID-19 disease has overwhelmed global
 health systems and led to over 200,000 American deaths to date. While initial reports suggested that SARS-
 CoV-2 infection in children was generally benign, a novel post-inflammatory syndrome known as multisystem
@@ -135,7 +135,7 @@ for clinical use (R33). The proposed research is significant, because we will pr
 much-needed MIS-C rapid diagnostic tool.","This research is highly relevant to public health because there is no current validated
 diagnostic tool for the post-SARS-CoV-2 inflammatory disorder in children, MIS-C. Our
 proposal will develop a new strategy to diagnose this disorder, which will directly
-improve care of children with fever and help support future clinical studies.",Non-SBIR/STTR,R33,RADx-rad
+improve care of children with fever and help support future clinical studies.",Non-SBIR/STTR,R33,RADx-rad,PreVAIL kIds
 R01DC016112,A confectionary-based screening tool for assessing chemosensory loss in COVID 19 patients.,"The goals of this Emergency Competitive Revision are to develop (Aim 1) and deploy (Aim 2) a
 novel, objective, psychophysical smell and taste screening test to detect the onset of COVID 19
 in at-risk populations. Complementary to the temperature screening procedures currently in use,
@@ -161,7 +161,8 @@ this urgent research.","This research will develop a novel screening tool for CO
 and/or taste is a predictive symptom of COVID 19 but current tests are not optimal for routine
 assessment in large populations of individuals. The development of a confectionary-based test will allow
 routine self-monitoring of chemosensory function using objective, sensitive, simple and inexpensive
-procedures to identify potential cases of COVID 19.",Non-SBIR/STTR,R01,RADx-rad
+procedures to identify potential cases of COVID 19.",Non-SBIR/STTR,R01,RADx-rad,"
+Chemosensory Testing"
 R44DE030842,A scalable aptamer-based electrochemical biosensor for rapid detection of SARS-CoV-2 from saliva,"The COVID-19 pandemic is a critical global public health emergency and many countries are failing to contain
 the virus's spread due to slow and insufficient testing. While several diagnostic methods are now available, most
 tests are either reagent-intensive and must be done in CLIA-approved labs, making them expensive and slow to
@@ -194,7 +195,7 @@ perform effective contract tracing to contain the pandemic. New diagnostic metho
 sensitive, and don't draw from already overtaxed supply chains are necessary to meet the urgent need for point-
 of-care and over-the-counter testing. To help meet this need, mPOD aims to develop a low-cost, aptamer-based
 biosensor platform to detect the SARS-CoV-2 virus in saliva, complete with an app that will facilitate data
-collection, tracking, and tracing of COVID-19 cases.",SBIR/STTR,R44,RADx-rad
+collection, tracking, and tracing of COVID-19 cases.",SBIR/STTR,R44,RADx-rad,Novel Biosensing and VOC
 R44DE030852,Designer DNA Nanostructure Based Biosensing for Rapid COVID19 Detection and Monitoring using Saliva Sample,"A Novel Saliva-Based Aptamer Detection Assay for SARS-CoV-2 Infection
 (RFA-OD-20-021 STTR Application)
 Automated, rapid diagnostics with little sample collection and preparation are needed to identify
@@ -236,7 +237,7 @@ sample preparation and the system will be built to analyze at least 7 other samp
 urine, nasopharyngeal samples, etc.) and the detection modalities will have additional detection aptamers in
 order to detect additional viral pathogens. This assay system can be deployed to monitor people not only in
 hospital and senior living facilities, but in schools, airports and other locations so that infected and asymptomatic
-individuals can be identified, quarantined, and treated to limit the spread of the pathogen.",SBIR/STTR,R44,RADx-rad
+individuals can be identified, quarantined, and treated to limit the spread of the pathogen.",SBIR/STTR,R44,RADx-rad,Novel Biosensing and VOC
 U18TR003780,Exosome-based Non-traditional Technologies Towards Multi-Parametric and Integrated Approaches for SARS-CoV-2,,"The urgent need to curb the spread of SARS-CoV-2 demands availability of diagnostics that are more rapid,
 accurate, sensitive and affordable than qPCR and antibody tests. Current qPCR tests are specific and sensitive,
 but lengthy turnaround times limit interventions against disease spread. Antibody testing is faster, but false-
@@ -258,7 +259,7 @@ vRNAs. We envision that the device will be used first for either finger-pricked 
 by an optional confirmatory second test of NP swab viral transport medium (VTM) that could be done with the
 same device. We will then test the device in multiple centers worldwide in two phases: Phase 1 – every center
 will perform a double-blinded validation using their biorepository specimen, and Phase 2 – in a β-testing phase,
-we will provide a large number of devices to healthcare providers for regular testing of workers.",Other Research-Related,U18,RADx-rad
+we will provide a large number of devices to healthcare providers for regular testing of workers.",Other Research-Related,U18,RADx-rad,Exosome
 U01DA053899,"Improved scalability, sensitivity, and interpretability of pathogen detection, including SARS-CoV-2, in wastewater using high-throughput, highly multiplexed digital array PCR technology","Presently, the application of molecular technology such as RT-qPCR and digital PCR (dPCR) to quantify
 SARS-CoV-2 and related targets in wastewater is cumbersome, time consuming, and costly. While
 progress has been made on the development of methods and the interpretation of data, much remains to
@@ -274,7 +275,7 @@ public health responses to the COVID-19 pandemic as well as future pandemics. We
 highly multiplexed digital PCR assays on wastewater collected from multiple diverse geographical regions
 that will be comprehensive, rapid, low cost, and quantitative for monitoring the circulation of disease.
 Moreover, the assay system will be able to address novel pathogens by allowing rapid aggregation of
-genetic tests for these new targets.",Non-SBIR/STTR,U01,RADx-rad
+genetic tests for these new targets.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U01DC019579,Longitudinal At Home Smell Testing to Detect Infection by SARS-CoV-2,"Self-report of sudden loss of smell or taste substantially increases the odds of being infected with SARS-CoV-2
 (10 – 37-fold). However, self-report of smell function is an unreliable predictor of smell loss. Based on our
 experience developing smell tests with personalized algorithms for asymptomatic detection of Alzheimer's
@@ -303,9 +304,9 @@ the cause of the COVID-19 pandemic.. To identifying individuals at risk for SARS
 novel technology to assess smell function at home using disposable smell cards. Here we propose to detect
 signs of olfactory dysfunction in asymptomatic and symptomatic individuals with instantaneous return of a risk
 score based on algorithms derived from validated COVID patients, leading to earlier self-quarantine and
-evaluation by a healthcare professional.",Non-SBIR/STTR,U01,RADx-rad
+evaluation by a healthcare professional.",Non-SBIR/STTR,U01,RADx-rad,Chemosensory Testing
 ZIAES103366,SARS-CoV-2 Diagnostic/Prognostic Sequencing Method,"COVID-19 Diagnostics. Our proposed screening approach, if adopted by CLIA-compliant testing facilities with robotics, next generation sequencing and bioinformatics capability, would meet one important need among testing alternatives. It would provide the capability for testing tens of thousands of patient samples in a large bolus. It could allow accurate and fast-turnaround SARS-CoV-2 testing capacity at population scale, permitting massive scale monitoring of at-risk individuals with minimal processing delay. This method exploits the indexing of poly-adenylated RNA from both virus and host cells and allows the possibility of extracting many metrics at once (more flags = easier to detect) with the same upstream processing routine. This added information will be useful for interpreting variation in response to viral exposure for both positive and negative tests. Looking ahead, the technical improvements embodied by a successful NGS-based viral gRNA screening platform could reveal new means to establish strategic preparedness roadmaps for future pandemics. It would be a model for how new infectious disease screening platforms might be rapidly jump-started and developed.
-We are working to develop a method to analyze  nasopharyngeal, oropharyngeal, saliva, and/or blood samples from COVID-19 patients collected very early in the COVID-19 disease course (e.g. at diagnosis of infection) and prospectively determine or predict  COVID-19 disease severity (e.g. asymptomatic, mild, severe, long COVID, etc).  The method seeks to both quantify the viral content in the biological sample and to also obtain an informative gene expression profile from patient cells.  These profiles will be compared with patient symptoms and clinical data using machine learning to identify biomarkers that are prognostic for COVID-19 disease severity.",,Intramural Research,ZIA,RADx-rad
+We are working to develop a method to analyze  nasopharyngeal, oropharyngeal, saliva, and/or blood samples from COVID-19 patients collected very early in the COVID-19 disease course (e.g. at diagnosis of infection) and prospectively determine or predict  COVID-19 disease severity (e.g. asymptomatic, mild, severe, long COVID, etc).  The method seeks to both quantify the viral content in the biological sample and to also obtain an informative gene expression profile from patient cells.  These profiles will be compared with patient symptoms and clinical data using machine learning to identify biomarkers that are prognostic for COVID-19 disease severity.",,Intramural Research,ZIA,RADx-rad,Diagnostic-Prognostic RNAseq
 R61HD105591,A data science approach to identify and manage Multisystem Inflammatory Syndrome in Children (MIS-C) associated with SARS-CoV-2 infection and Kawasaki disease in pediatric patients,"Since the SARS-CoV-2 pandemic began, the emergence of an associated novel multisystem
 inflammatory syndrome in children (MIS-C) has been reported. Interestingly, patients with MIS-C follow a
 presentation, management and clinical course that are somewhat similar to that of patients with Kawasaki
@@ -342,7 +343,7 @@ algorithms which we have previously trained in patients with Kawasaki Disease, a
 vasculopathy with multiple similarities to MIS-C. This study, performed in collaboration with the International
 Kawasaki Disease Registry (IKDR) consortium, will consist of two phases, first a large-scale data collection
 and algorithm development effort and second, the prospective evaluation of the performance and clinical utility
-of the algorithm ahead of large-scale deployment.",Non-SBIR/STTR,R61,RADx-rad
+of the algorithm ahead of large-scale deployment.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 U18TR003787,A Handheld Microchip for GC analysis of breath to screen for COVID-19,"The COVID-19 pandemic has caused unprecedented societal suffering and economic disruption. In the
 United States, more than six million people have contracted COVID-19 and more than one hundred ninety
 thousand patients have died of this disease to date. Although current COVID-19 diagnostic testing technologies
@@ -375,7 +376,8 @@ handheld breath collection tool and a portable GC with a photoionization detecto
 machine learning algorithms will be used to analyze the detected signals of volatile organic compounds (VOCs)
 in exhaled breath by the portable GC for detection of COVID-19 patients. UofL is uniquely suited to develop this
 approach because of the PI’s expertise in breath analysis for detection of Tuberculosis and lung cancer and the
-team’s experience in virology, infectious diseases, biostatistics, and artificial intelligence.",Other Research-Related,U18,RADx-rad
+team’s experience in virology, infectious diseases, biostatistics, and artificial intelligence.",Other Research-Related,U18,RADx-rad,"
+SCENT"
 R42DE030829,A multimodal platform for Oral screening of COVID-19,"The development of a rapid and reliable sensor system from readily available oral specimens is crucial for
 the screening and management of SARS-CoV-2 infection. Other than tests that require laboratory-scale
 instrumentation, the development of rapid tests can play a timely role in the management of an outbreak.
@@ -403,7 +405,7 @@ provide a LOD of 5-20 viruses per microliter in an oral specimen and will be cli
 greater than 95% concordance with RT-PCR in 30 positive and 30 negative specimens.","The development of rapid tests can play a timely role in the management of an outbreak. The
 COVID-19 pandemic has been especially devastating due to the ability of asymptomatic carriers
 to transmit the virus. Thus, accurate and low-cost detection of the active infection on-site from
-easily collectible oral specimens is essential for the successful management of this disease.",SBIR/STTR,R42,RADx-rad
+easily collectible oral specimens is essential for the successful management of this disease.",SBIR/STTR,R42,RADx-rad,Novel Biosensing and VOC
 U54HL119145,Boston Biomedical Innovation Center,"A well-recognized gap exists in the path from biomedical discovery in academia to clinical application and 
 commercialization of therapeutic, device, and diagnostic technologies in cardiovascular, pulmonary, 
 hematologic, and sleep disorders. This chasm is the result of inadequate funding for support of proof-of-concept 
@@ -428,7 +430,7 @@ well as the relationship between the public and private sectors in facilitating 
 strategies for technologies in heart, lung, blood, and sleep disorders for the ultimate benefit of patients and society.","Translation of basic observations into clinical practice is limited by the resources needed for development, 
 inadequate experience of academic investigators, and the discovery-focused academic culture. Building an 
 academic infrastructure that facilitates translation by promoting development is an important goal to ensure 
-the successful translation of research into benefit for patients and society.",Research Centers,U54,RADx-rad
+the successful translation of research into benefit for patients and society.",Research Centers,U54,RADx-rad,Novel Biosensing and VOC
 R42DE030832,A SARS-CoV-2 Breathalyzer for Direct Virus Detection,"A substantial and growing body of evidence has demonstrated that COVID-19 is transmitted by human-emitted
 airborne particles; therefore, it is critical to rapidly screen individuals to determine whether they are at risk of
 transmitting the disease to others before they enter large venues (e.g., airports, schools) and smaller ones
@@ -462,7 +464,7 @@ can enter schools, hospitals, office buildings, assisted living facilities, mili
 large venues in order to protect vulnerable populations and mitigate the pandemic. We will develop a
 breathalyzer to detect aerosolized SARS-CoV-2 directly from exhaled breath within minutes by
 marrying a proven, cutting-edge aerosol sampling technology with a novel and inexpensive virus
-detector based on magnetic particle spectroscopy.",SBIR/STTR,R42,RADx-rad
+detector based on magnetic particle spectroscopy.",SBIR/STTR,R42,RADx-rad,Novel Biosensing and VOC
 U18TR003778,AFS/SERS Saliva-based SARS-CoV-2 Earliest Infection and Antibodies Detection,"This U18 application is responsive to the NIH’s RADx-rad Emergency Responses to the COVID-
 pandemic for new or non-traditional technologies developed for single extracellular vesicle, exosome and
 extracellular RNA (exRNA) isolation and analysis and reposition them for detection of SARS-CoV-2. The
@@ -478,7 +480,7 @@ U18 proposal, to test the hypothesis that an integrated multi-parametric non-inv
 2 infection, viral load and host immunity test demonstrating clinical performance surpassing current saliva-based
 SARS-CoV-2 EUA tests.","This U18 application to develop exosome-based non-traditional technology for point-of-care sampling
 and non-invasive earliest detection of SARS-CoV-2 infection and COVID-19 antibodies detection, for population
-level testing for COVID-19 infection and immunity.",Other Research-Related,U18,RADx-rad
+level testing for COVID-19 infection and immunity.",Other Research-Related,U18,RADx-rad,Exosome
 R61HD105593,AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids,"This work is directed at characterizing pediatric COVID-19 and stratifying incoming patients by projected
 (future) disease severity. Such stratification has several implications: immediately improving treatment planning, and
 as disease mechanistic pathways are uncovered, directing treatment. Predicting future severity will inform the risks of
@@ -499,7 +501,7 @@ on COVID-19 in children, characterize the spectrum of disease and identify biosi
 progressive disease. To facilitate translation of the approaches developed in this work to a wide user community, we
 incorporate a Translational Development function, to oversee the design-control process and ensure readiness of our
 methods for regulatory review. Incorporated into our timelines are appropriate regulatory milestones intended to
-conform with the Emergency Use Authorization (EUA) programs in effect for SARS-CoV-2 diagnostics.",Non-SBIR/STTR,R61,RADx-rad
+conform with the Emergency Use Authorization (EUA) programs in effect for SARS-CoV-2 diagnostics.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 U01LM013129,Bioinformatics Framework for Wastewater-based Surveillance of Infectious Diseases,"Enabling access to comprehensive biomedical information is central to the mission of the National Library of
 Medicine and key to disease prevention for better health outcomes nationally and globally. In the area of
 infectious disease prevention, real time and non-biased sequence data are essential for early detection of
@@ -529,7 +531,7 @@ other biohazards.","This biomedical informatics project will leverage high-throu
 process flows collected over the past two decades to create an innovative early warning system for virus
 surveillance and public health protection. It will furnish significantly expanded virome databases and an online
 tool enabling public health practitioners and researchers to rapidly detect characteristic sequences of
-pathogenic human viruses in DNA and RNA sequence data from environmental and clinical specimens.",Non-SBIR/STTR,U01,RADx-rad
+pathogenic human viruses in DNA and RNA sequence data from environmental and clinical specimens.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U01HL152401,Washington Entrepreneurial Research Evaluation and Commercialization Hub,"The University of Washington and the entrepreneurial community seeks to partner with the National Institutes
 of Health to become a Research Evaluation and Commercialization Hub (REACH) to accelerate academic
 biomedical discoveries into products helping ease the highest U.S. burden of disease and disability.
@@ -565,7 +567,7 @@ Entrepreneurial Research Evaluation and Commercialization Hub (WE-REACH) program
 build on strengths and integration of the entrepreneurial and translational environment in the
 region to identify and accelerate promising products, foster milestone-driven project plans and
 translational teams, and then work with experts to overcome the barriers to create marketable
-health products.",Non-SBIR/STTR,U01,RADx-rad
+health products.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
 U18TR003812,COVID-19 detection through scent analysis with a compact GC device,"Recent studies, including ours, have suggested that breath may allow us to diagnose COVID-19 infection
 and even monitor its progress. As compared to immunological and genetic based methods using sample media
 like blood, nasopharyngeal swab, and saliva, breath analysis is non-invasive, simple, safe, and inexpensive; it
@@ -600,7 +602,7 @@ performance breath analyzer that can be used to detect certain diseases. In this
 adapt and refine our existing device and algorithms so they can be used for rapid, safe, and non-
 invasive COVID-19 detection. People will simply breath into the device and it will quickly provide
 results, meaning that it can be used in a variety of everyday settings to help fight against the
-COVID-19 pandemic.",Other Research-Related,U18,RADx-rad
+COVID-19 pandemic.",Other Research-Related,U18,RADx-rad,SCENT
 R61HD105619,COVID-19 Network of Networks Expanding Clinical and Translational approaches to Predict Severe Illness in Children (CONNECT to Predict SIck Children),"The SARS-CoV-2 pandemic has manifested in children with a wide spectrum of clinical presentations ranging
 from asymptomatic infection to devastating acute respiratory symptoms, appendicitis (often with rupture), and
 Multisystem Inflammatory Syndrome in Children (MIS-C), a serious inflammatory condition presenting several
@@ -637,7 +639,8 @@ inflammatory condition known as multisystem inflammatory syndrome. The proposed 
 Networks Expanding Clinical and Translational approaches to Predict Severe Illness in Children (CONNECT to
 Predict SIck Children) will develop models and biomarkers that predict risk for severe disease in children and
 adolescents by systematically integrating social science, epidemiological, genetic, biochemical, immunological,
-and computational approaches.",Non-SBIR/STTR,R61,RADx-rad
+and computational approaches.",Non-SBIR/STTR,R61,RADx-rad,"
+PreVAIL kIds"
 R61HD105590,Diagnosing and predicting risk in children with SARS-CoV-2- related illness,"In the wake of COVID-19 pandemic, Multisystem Inflammatory Syndrome in Children (MIS-C) has evolved as a
 new threat to children exposed to SARS-CoV-2. The emergence of MIS-C is so new and so rapidly evolving
 that there are currently no diagnostic tests to identify these patients nor are there tools to predict disease
@@ -671,7 +674,7 @@ Multisystem Inflammatory Syndrome in Children (MIS-C). The illness occurs weeks 
 SARS-CoV-2 and these children have a wide spectrum of disease severity ranging from cardiogenic shock to
 milder illness that can be self-limited. To address an urgent, unmet clinical need, investigative teams across
 three countries will join forces to discover and validate a diagnostic test to identify children with MIS-C and
-predict progression of disease.",Non-SBIR/STTR,R61,RADx-rad
+predict progression of disease.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 U01AA029348,Detection and Automatic Privacy-Protected Contact Tracing System Designed for COVID-19,"The COVID-19 pandemic has rapidly spread across the world, bringing death, illness, disruption to daily
 life, and economic crisis to businesses and individuals. The situation has been exacerbated after the schools
 and companies reopened due to economic pressure. One of the key failures in COVID-19 containment is
@@ -709,7 +712,8 @@ clusters on the viral outer surface for specific and rapid SARS-CoV-2 virion det
 of-care device for portable signal reading, and blockchain encryption for privacy protection during result
 recording and track tracing, therefore, our detection and tracing model allows a direct, automatic, and cost-
 effective detection, a highly flexible result acquisition process and a super-encrypted data transition and tracing
-system.",Non-SBIR/STTR,U01,RADx-rad
+system.",Non-SBIR/STTR,U01,RADx-rad,"
+Automatic Detection & Tracing"
 U01AA029328,Development of an Automated Diagnostic Platform for SARS-CoV-2 Monitoring in Vulnerable Areas,"The devastation caused by emerging pathogens with fast transmission capacity, such as SARS-CoV-2, has
 demonstrated the importance of preparedness for future viral outbreaks; this includes the ability for fast
 deployment of in-situ testing tools and epidemiological surveillance with high temporal and spatial
@@ -730,7 +734,7 @@ health as the respiratory Coronavirus family continues its seasonal visits, whic
 decades, much like the occasional visits from the influenza virus, with varying degrees of virulence.","The proposed research aims to develop a multiplex biosensor platform to support increased
 testing of SARS-CoV-2 with high accuracy and temporal resolution. A multiplex biosensor system
 could help reduce testing gaps in vulnerable areas where access to standard laboratory testing is
-very limited.",Non-SBIR/STTR,U01,RADx-rad
+very limited.",Non-SBIR/STTR,U01,RADx-rad,Automatic Detection & Tracing
 R44DE030841,Direct bioelectronic detection of SARS-CoV-2 from saliva using single-molecule field-effect transistor array,"Direct bioelectronic detection of SARS-CoV-2 from saliva
  using single-molecule field-effect transistor array
  Nucleic acid tests have become the gold-standard for diagnostic testing for COVID-19, usually performed
@@ -763,7 +767,7 @@ samples up to and including clinical samples (Specific Aim 4). This project is a
 researchers who developed the smFET technology and a venture-based start-up venture, Quicksilver Biosci-
 ences, spun out to commercialize smFET technology and develop smFET/CMOS arrays for molecular diag-
 nostic applications.","The proposal seeks to provide a new bioelectronic approach for antigen testing for infectious diseases. Low-
-cost and pervasive antigen testing would be an essential new tool for the control of the COVID-19 pandemic.",SBIR/STTR,R44,RADx-rad
+cost and pervasive antigen testing would be an essential new tool for the control of the COVID-19 pandemic.",SBIR/STTR,R44,RADx-rad,Novel Biosensing and VOC
 R61HD105618,Discovery and clinical validation of host  biomarkers of disease severity and multi-system inflammatory syndrome in children (MIS-C) with Covid-19,"Novel approaches for early and accurate diagnosis of COVID-19 associated syndromes and
 evaluation of clinical severity and outcomes of COVID-19 disease in children are urgently needed.
 The overarching goal of this grant proposal is to develop clinical assays that can evaluate and predict
@@ -799,7 +803,7 @@ including the Multisystem Inflammatory Syndrome in Children (MIS-C), as well as 
 severity and outcomes, are urgently needed. For this project, we will identify RNA transcriptomic
 and cell-free DNA omics biomarkers that will be used to develop and validate host-based
 assays from nasal swab and blood samples, with the goal of regulatory submission for FDA
-Emergency Use Authorization (EUA).",Non-SBIR/STTR,R61,RADx-rad
+Emergency Use Authorization (EUA).",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 R01DK130067,"Early detection, containment, and management of COVID-19 in dialysis facilities using multi-modal data sources","With older age and multiple comorbidities, dialysis patients are at high risk for serious complications, even death,
 from COVID-19. There is a large disproportionate representation of minorities, especially Blacks and Hispanics.
 Over 85% of hemodialysis patients travel three times a week to dialysis facilities to receive life-sustaining
@@ -818,7 +822,7 @@ implement and validate the proposed prediction models. We firmly believe that th
 improve patients’ and staff’s safety while delivering high-quality, individualized care to a high-risk population.","Dialysis patients are at high risk for serious complications, even death, from COVID-19. We aim to leverage
 multimodal data to develop mathematical and statistical models and implement them in a large number of
 dialysis clinics. Our cross-disciplinary effort will improve patients' and staff's safety while delivering high-quality,
-individualized care to a high-risk population.",Non-SBIR/STTR,R01,RADx-rad
+individualized care to a high-risk population.",Non-SBIR/STTR,R01,RADx-rad,Multimodal Surveillance
 U18TR003775,"Effective, Reagent-free Detection of the Odor Signature of Covid-19 Infection Using a Nano-Enabled Sensor Array","COVID-19 presents a public health emergency: There is a critical need for rapid, not reagent intensive, non-
 invasive testing technologies. This program will lead to the production of a prototype system to diagnose
 COVID-19 infection using the body odor signature of the disease. Our goal is to maximize societal impact
@@ -851,7 +855,7 @@ petition to FDA asking the agency to categorize and clear the proposed COVID-19 
 Class II without reference to any predicate.","This program addresses the critical unmet need of an effective means to screen for COVID-19 infection, and
 potentially other novel virus infections, in a community setting based upon the body odor signature of the
 disease. The program will result in a validated prototype system, with a test time of minutes, a test cost of
-approximately $0.50, on a path to rapid FDA approval.",Other Research-Related,U18,RADx-rad
+approximately $0.50, on a path to rapid FDA approval.",Other Research-Related,U18,RADx-rad,SCENT
 R61HD105613,Identifying biomarker signatures of prognostic value for Multisystem Inflammatory Syndrome in Children (MIS-C),"In adults, SARS-CoV-2 infection exhibits a wide range of clinical outcomes, from asymptomatic and mild disease
 to severe viral pneumonia, respiratory distress, acute kidney injury, thrombotic disorders, and serious cardiac,
 cerebrovascular and vascular complications. Severe infection can also occur both in children and young adults
@@ -882,7 +886,7 @@ disease, and predict the longitudinal risk of complications.","SARS-CoV-2 infect
 groundbreaking project will employ multiple state-of-the-art technologies and approaches to evaluate children
 and young adults (<21), enrolled in the United States and Colombia, across the spectrum of clinical
 manifestations of Covid-19 to identify and validate biomolecules or bacterial signatures with diagnostic and
-prognostic value.",Non-SBIR/STTR,R61,RADx-rad
+prognostic value.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 U01HL152410,Midwest Biomedical Accelerator Consortium: MBArC,"The goal of this project is to establish robust, proof-of-concept feasibility for an innovative E-nose system,
 termed the MOF-SCENT system, for real-time and non-invasive screening for asymptomatic and symptomatic
 COVID-19 patients, with high accuracy based on the detection of VOCs emanating from exhaled breath. The
@@ -907,7 +911,7 @@ and Keysight Technologies’ electronic assembly infrastructure would be used. I
 system at homes, businesses, grocery stores, pharmacies, and medical clinics will significantly increase daily
 accessibility to on-demand accurate testing and thereby mitigate the second wave of infections of SARS-CoV-
 2. Keysight Technologies is the world’s largest test and measurement manufacturer, with a well-established
-supply chain, superior logistics and technical support infrastructure, and a commitment to quality control.",Non-SBIR/STTR,U01,RADx-rad
+supply chain, superior logistics and technical support infrastructure, and a commitment to quality control.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
 R01MD016526,Marshallese: Alternate Surveillance for COVID-19 in a Unique Population,"Marshallese Pacific Islanders bear a disproportionate burden of COVID-19 infection, hospitalization, and
 death, with rates 4 to 25 times higher than those of other US racial and ethnic groups in the Continental US.2,3
 For example, in Northwest Arkansas Marshallese people represent less than 3% of the total population, but
@@ -940,7 +944,7 @@ Marshallese communities in the US: Northwest Arkansas and Spokane County, Washin
 demonstrate the value of culturally tailored, participatory disease surveillance developed and tested in real-
 world settings to mitigate COVID-19 disparities in a high-risk, clustered population that has been profoundly
 underserved by public health efforts to date. Our findings can be rapidly adapted and disseminated for
-improved surveillance and disease prevention in other high-risk minority groups across the US.",Non-SBIR/STTR,R01,RADx-rad
+improved surveillance and disease prevention in other high-risk minority groups across the US.",Non-SBIR/STTR,R01,RADx-rad,Multimodal Surveillance
 U01AA029324,Minimal False-alarm Touch-based Detection of SARS-Cov-2 Virus Particles using Poly-aptamers,"Available tools for detection of SARS-CoV-2 virus require extensive sample preparation and/or expensive lab-
 based equipment to obtain accurate results. The objective in this proposal is to build a touch-screen sensor array
 to directly capture, detect, and identify model SARS-CoV-2 virus particles with minimal false alarms. This ambi-
@@ -969,7 +973,7 @@ quiring extensive sample preparation and/or expensive lab-based equipment to obt
 jective in this proposal is to build a touch-screen sensor array to directly capture, detect, and identify model
 SARS-CoV-2 virus particles with minimal false alarms. This ambitious goal will be achieved by the interdisci-
 plinary team of GE Research scientists and engineers and will be a synergistic combination of the proposed in-
-novations and the prior scientific and engineering accomplishments of the team.",Non-SBIR/STTR,U01,RADx-rad
+novations and the prior scientific and engineering accomplishments of the team.",Non-SBIR/STTR,U01,RADx-rad,Automatic Detection & Tracing
 R01NR020105,Multi-Modal Wireless COVID Monitoring & Infection Alerts for Concentrated Populations,"Multi-Modal Wireless COVID Monitoring & Infection Alerts for Concentrated Populations
 Abstract: The high aerosolized transmissibility of COVID, long asymptomatic incubation period,
 and highly variable presentation attributes of the COVID pandemic have proven challenging in
@@ -1007,7 +1011,7 @@ available, it remains inaccessible to too many and highlights an urgent unmet ne
 methods to detect COVID infection and spread. In previous work using online machine learning
 and commercially-available fitness wearables, we have demonstrated remote detection of COVID
 onset up to 7 days in advance of symptoms, which we here propose to optimize and extend to
-diverse dense concentrated population settings for ongoing and effective COVID surveillance.",Non-SBIR/STTR,R01,RADx-rad
+diverse dense concentrated population settings for ongoing and effective COVID surveillance.",Non-SBIR/STTR,R01,RADx-rad,Multimodal Surveillance
 U18TR003807,Multi-parametric Integrated Molecular Detection of SARS-CoV-2 from Biofluids by Adapting Single Extracellular Vesicle Characterization Technologies,"The World Health Organization has recognized a global pandemic of novel coronavirus pneumonia (COVID-19)
 from exposure to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Coronaviruses (CoVs)
 are membrane-enveloped positive-sense, single-stranded RNA viruses decorated with membrane proteins. The
@@ -1057,7 +1061,7 @@ GMP chip production.","In this project, we propose to repurpose our single exoso
 detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection from biofluids. Our
 approach will enable the simultaneous detection of viral signals and host antibodies, including viral RNA, S-
 protein, and associated IgG/IgM from the same sample on a single device, thus enabling enhanced diagnosis,
-disease status, and prognostic assessment of COVID-19.",Other Research-Related,U18,RADx-rad
+disease status, and prognostic assessment of COVID-19.",Other Research-Related,U18,RADx-rad,Exosome
 U01AA029331,Nanobody-Based Electrochemical Biosensor for Real-Time Detection of Aerosolized SARS-CoV2,"PROJECT SUMMARY
  Coronavirus 2019 (COVID-19) has afflicted 6.2 million Americans and killed 190,000 as of early September
 2020 (WHO website); a roughly 3% mortality. Between a shortage in testing and unidentified asymptomatic
@@ -1092,7 +1096,7 @@ airborne pollutants found indoors.
 pathogens, would enable us to limit the viral spread throughout the community in the current and future
 pandemics.","COVID-19 has afflicted millions of Americans with a roughly 3% mortality rate. We have developed an
 ultra-sensitive electrochemical biosensor to detect CoV-2 which we will incorporate into a breathalyzer for
-diagnostic purposes, as well as an airborne detector to monitor large gathering spaces.",Non-SBIR/STTR,U01,RADx-rad
+diagnostic purposes, as well as an airborne detector to monitor large gathering spaces.",Non-SBIR/STTR,U01,RADx-rad,Automatic Detection & Tracing
 U18TR003795,Portable GC detector for breath-based COVID diagnostics,"/Abstract: This proposal has two major goals: 1) Define signature exhaled breath volatile
 organic compounds (VOCs) to diagnose SARS-CoV-2 infections, and 2) Develop a portable chemical sensing
 device that can capture and detect exhaled VOCs and includes machine learning algorithms for automated
@@ -1126,7 +1130,7 @@ Nam Tran, Director of Clinical Pathology & Clinical Chemistry at the UC Davis Me
 their capacity to test for COVID-19, yet global supplies for testing materials remain scarce. This project would
 lead to the development of an entirely new type of COVID-19 test, one that could diagnose infections with only
 a breath sample. Through this proposal, our team would develop a portable device that could identify people
-with COVID-19 infections by analyzing volatile organic compounds (VOCs) found in exhaled breath.",Other Research-Related,U18,RADx-rad
+with COVID-19 infections by analyzing volatile organic compounds (VOCs) found in exhaled breath.",Other Research-Related,U18,RADx-rad,SCENT
 U01DC019573,Rapid olfactory tools for telemedicine-friendly COVID-19 screening and surveillance,"The COVID-19 pandemic is the most devastating infectious disease outbreak in a century, particularly in
 underserved and minoritized communities. In 2020 alone, it will cost a million lives. It continues to wreak
 economic havoc worldwide. Therefore, it is critical to develop new tools that can mitigate the spread of SARS-
@@ -1156,7 +1160,7 @@ individual level and to assess prevalence in communities, especially those that 
 underserved by the health care system and public health infrastructure.","Olfactory loss (anosmia or hyposmia) is the single best symptomatic predictor of COVID-19. Objective, self-
 administered smell testing can accelerate identification of COVID-19 in individuals and communities –
 particularly when timely viral testing is not readily available – and help mitigate community spread of this
-dangerous disease.",Non-SBIR/STTR,U01,RADx-rad
+dangerous disease.",Non-SBIR/STTR,U01,RADx-rad,Chemosensory Testing
 U01DC019578,SCENTinel: A Rapid Smell Test for COVID-19 Surveillance,"Smell loss is a predominant symptom of COVID-19, and initial evidence based on self-reports suggests that
 chemosensory loss is a sensitive predictor of COVID-19 in the general population, more so than fever.
 However, given the natural lack of awareness of chemosensory changes, self-reports underestimate the true
@@ -1188,7 +1192,7 @@ to contain the spread of COVID-19.","As COVID-19 continues to spread in concurre
 immediate need to develop more robust screening tools to ensure everyone’s personal safety. Loss of the
 sense of smell is an early and sensitive predictor of COVID-19 infection. The goal of this project is to develop
 the SCENTinel test, an inexpensive, rapid, and highly scalable objective smell test to use for COVID-19
-surveillance.",Non-SBIR/STTR,U01,RADx-rad
+surveillance.",Non-SBIR/STTR,U01,RADx-rad,Chemosensory Testing
 U01DA053941,Development and Proof-of-Concept Implementation of the South Florida Miami RADx-rad SARS-CoV-2 Wastewater-Based Surveillance Infrastructure,"The University of Miami (UM), with three primary campuses in Miami, Florida, is geographically spread within
 one of the worst current COVID-19 hotbeds. UM has deployed an elaborate human surveillance testing, tracking
 and tracing (3T) system to monitor the student body, faculty, and staff. This 3T system includes a major hospital
@@ -1225,7 +1229,7 @@ identification for epidemiologic tracking) can be improved by optimizing wastewa
 results from this proposal will develop and deploy experimental and informatics infrastructure and operations,
 provide a proof-of-concept implementation to use wastewater for infectious disease surveillance, and advance
 work towards a model capable of predicting local and community level spread of COVID-19 and emerging
-pathogens based upon measurements of SARS-CoV-2 and other viruses from wastewater.",Non-SBIR/STTR,U01,RADx-rad
+pathogens based upon measurements of SARS-CoV-2 and other viruses from wastewater.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 R61HD105610,Severity Predictors Integrating salivary Transcriptomics and proteomics with Multi neural network Intelligence in SARS-CoV2 infection in Children (SPITS MISC),"Children have been disproportionately less impacted by the Corona Virus Disease 2019 (COVID-19) caused
 by the Severe Acute Respiratory Syndrome Corona Virus 2 (SAR-CoV-2) compared to adults. However,
 severe illnesses including Multisystem Inflammatory Syndrome (MIS-C) and respiratory failure have occurred
@@ -1254,7 +1258,7 @@ expect to lead to personalized therapy in the future. The results will have a po
 will lead to the creation of patient profiles based on individual risk factors which can enable early identification
 of severe disease and appropriate resource allocation during the pandemic.","This project is relevant to public health as development of a predictive model that integrates salivary
 biomarkers with clinical and social determinants into a bedside tool will enable early identification of
-severe COVID-19 in children, ensure appropriate resource allocation and aid in targeted treatment.",Non-SBIR/STTR,R61,RADx-rad
+severe COVID-19 in children, ensure appropriate resource allocation and aid in targeted treatment.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
 U01AA029316,"Touchscreen-compatible, real-time electrochemical sensing of SARS-CoV-2","The SARS-CoV-2 coronavirus, the cause of the COVID-19 global pandemic, is efficiently spread
 and has reached over 27 million confirmed cases as of September 8, 2020. There is therefore an
 urgent need for new technologies that can provide early detection of virus, reducing the
@@ -1277,7 +1281,7 @@ and easily applied for future pathogen detection.","There is an urgent need for 
 transmission. The main goal of this proposal is to develop an integrated biosensor-touchscreen that sensitively
 reports surface contact with SARS-CoV-2. Successful completion of these aims will result in a novel automatic
 sensing platform for SARS-CoV-2 that could also applied to multi-user touchscreen devices such as those found
-in hospitals, airports, and restaurants, as well as single-user touchscreen such as mobile phones.",Non-SBIR/STTR,U01,RADx-rad
+in hospitals, airports, and restaurants, as well as single-user touchscreen such as mobile phones.",Non-SBIR/STTR,U01,RADx-rad,Automatic Detection & Tracing
 R01DE031114,Validation of Smart Masks for Surveillance of COVID-19,"Vulnerable populations do not just need testing—they need surveillance. The ideal surveillance tool would
 operate in the background with minimal involvement of the population to be tested; it would be simple,
 affordable, reliable, and accurate. Unfortunately, no such surveillance system yet exists. Here, we propose
@@ -1306,7 +1310,7 @@ implicated in a variety of SARS viruses. Thus, this work will be useful should f
 exposed to COVID-19. Mask-wearing is currently widespread and thus adding this colorimetric
 sensing approach is a simple yet innovative way to perform surveillance especially among
 vulnerable groups. After building and characterizing this mask, we will validate it in group of at-risk
-individuals.",Non-SBIR/STTR,R01,RADx-rad
+individuals.",Non-SBIR/STTR,R01,RADx-rad,Multimodal Surveillance
 U01DA053976,Wastewater Analysis of SARS CoV-2 in Tribal Communities,"The rapid onset of the COVID-19 pandemic left many across the world unprepared to test, treat, and plan for
 coronavirus morbidity and mortality. This was true for Tribal nations, whose sovereign status enabled swift and
 preventative measures such as lock-downs and border closures, yet whose culture contributed to additional
@@ -1337,7 +1341,7 @@ sewershed. Our approach of analyzing wastewater for human metabolites and pathog
 well-documented concerns of violation of cultural norms by avoiding the collection and analysis biospecimens of
 individuals. By effectively working with Tribes, these efforts will culminate in a robust data stream to inform
 leadership, health administrators and wastewater utilities of coronavirus trends reflective of the population from
-which samples are collected.",Non-SBIR/STTR,U01,RADx-rad
+which samples are collected.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U01DA053903,Wastewater Assessment for Coronavirus in Kentucky: Implementing Enhanced Surveillance Technology,"Wastewater Assessment for Coronavirus in Kentucky – Implementing Enhanced Surveillance
 Technology
 Surveillance for SARS-CoV-2 is hindered by the availability of testing, particularly in remote and rural
@@ -1374,7 +1378,7 @@ intensive clinical testing. Existing wastewater assays have several limitations 
 prevent use in remote and rural settings where disease surveillance could inform public action. Thus, we plan to
 develop, optimize, and validate a new “point-of-acquisition” SARS-CoV-2 assay that enables us to rapidly
 quantify the amount of coronavirus RNA in a wastewater sample, such that additional precautions (e.g.
-individual testing, infection prevention measures) can be taken when needed.",Non-SBIR/STTR,U01,RADx-rad
+individual testing, infection prevention measures) can be taken when needed.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U01DA053893,Wastewater Detection of COVID-19,"When faced with a pandemic such as SARS-Coronavirus-2 (SAR-CoV-2), the virus responsible for COVID-19,
 timely risk assessment and action are required to prevent public health impacts to entire communities.
 Because infected individuals may not have access to testing or may be asymptomatic and contraction can
@@ -1409,7 +1413,7 @@ predict how many infected patients exist in a population. With a better understa
 the individual patient contribution and duration of SARS-COV-2 signal in wastewater as
 well as a better understanding of factors that affect signal detection, it will be possible to
 more accurately predict the severity of outbreaks in populations using this powerful
-technique.",Non-SBIR/STTR,U01,RADx-rad
+technique.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
 U24LM013755,RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization,"Preparing SARS-­CoV-­2 testing data for reuse requires making the data syntactically and semantically equivalent. 
 Standardization  of  terminologies  and  a  common  data  model  accomplish  the  former,  while  the  latter  is 
 accomplished  through  understanding  the  data  and  making  it  comparable  across  RADx-­rad  awardees  by 
@@ -1432,4 +1436,4 @@ and the public in the pursuit of effective, affordable, and deployable
 coordinate  a  consortium  of  innovative  COVID-­19  diagnostic  technology  developers.  The  partnership  between 
 the  University  of  California  San  Diego  and  the  University  of  Texas  Health  Science  Center  at  Houston  brings 
 together informatics/data scientists and infectious diseases specialists who will standardize viral samples, testing 
-and procedures, as well as data in order to integrate and share data in a meaningful manner. ",Other Research-Related,U24,RADx-rad
+and procedures, as well as data in order to integrate and share data in a meaningful manner. ",Other Research-Related,U24,RADx-rad,Data Coordinating Center
