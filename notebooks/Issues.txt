@@ -1,0 +1,25 @@
+Grant: add subproject (9 DCC project)
+
+Dataset: add description/abstract
+
+2_get_investigators.ipynb
+# TODO there should be 48 dbgapAccession numbers (not 47)???
+radx_investigators.query("dbgapAccession != ''").shape[0]
+
+Consistency:
+Country name: events vs. organizations, upper/lowercase
+
+Rename:
+Resarcher_investigator, Researcher_coauthor
+
+Research-EMPLOYED_BY-Organization (add for manually added researchers)
+
+Researcher: 
+Why is Lucila still listed with UCSD?
+Add URL for semantic scholar or ORICD
+Add aliases, e.g., Vanegas, Schuerer
+
+8_get_event_info.ipynb
+Many presenters don't match. Are we missing publications? Most likely they are co-authors on papers with the PI.
+
+
