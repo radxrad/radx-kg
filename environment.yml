@@ -10,10 +10,12 @@ dependencies:
   - jupyterlab_widgets
   - ipywidgets
   - pandas
+  - pyarrow
   - levenshtein
   - titlecase
   - tqdm
   - matplotlib
+  - seaborn
   - scikit-learn
   - python-dotenv
   - black
