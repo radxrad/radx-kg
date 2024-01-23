@@ -70,6 +70,10 @@ Figure 5: Subgraph for PI Jesse Jokerts
 
 Figure 6: Subgraph for University of Miami -->
 
+## Query radx-kg
+Click on the Open Colab button below to launch a Jupyter Notebook and run example queries on the radx-kg.
+[ExampleQueries_colab.ipynb](notebooks/visualization/ExampleQueries_colab.ipynb) <a target="_blank" href="https://colab.research.google.com/github/radxrad/radx-kg/blob/main/notebooks/Neo4j_Example1_colab.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+
 ## Directories and Files
 
 | Directory | Description| 
