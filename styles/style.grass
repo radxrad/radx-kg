@@ -158,3 +158,6 @@ node.ResearchInitiative {
   text-color-internal: #2A2C34;
   diameter: 80px;
 }
+relationship.MetaRelationship {
+  caption: "{relationshipName}";
+}
