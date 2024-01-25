@@ -59,9 +59,8 @@ node.MetaNode {
   border-color: #c0a378;
   text-color-internal: #2A2C34;
   diameter: 80px;
-}
-relationship.MetaRelationship {
-  caption: "{name}";
+  defaultCaption: "<id>";
+  caption: "{nodeName}";
 }
 node.Grant {
   color: #4C8EDA;
