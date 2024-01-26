@@ -53,7 +53,7 @@ def fuzzy_merge(df1, df2, left_fuzzy_on, right_fuzzy_on, left_on=None, right_on=
         dfm = dfm.merge(df2, left_on=["match"], right_on=[right_fuzzy_on], how=how)
         
     # fill in score when merge is not an "inner" join.
-    dfm["score"].fillna(0.0, inplace=True)
+    dfm["score"] = dfm["score"].fillna(0.0)
     dfm.fillna("", inplace=True)
     dfm["score"] = dfm.apply(lambda x: x["score"] if x[right_fuzzy_on] != "" and x[left_fuzzy_on] != "" else 0.0, axis=1)
     dfm["match"] = dfm.apply(lambda x: x["match"] if x[right_fuzzy_on] != "" and x[left_fuzzy_on] != "" else "", axis=1)
