@@ -2,7 +2,7 @@
 
 **[WORK IN PROGRESS]**
 
-The RADx Digital Assets Knowledge Graph (radx-kg) collects and links assets from the National Institutes of Health (NIH) [Rapid Acceleration of Diagnostics (RADx®)](https://www.nih.gov/research-training/medical-research-initiatives/radx). The goal of the RADx initiative is to speed innovation in the development, commercialization, and implementation of technologies for COVID-19 testing.
+The RADx Digital Assets Knowledge Graph (radx-kg) collects and links assets from the National Institutes of Health (NIH) [Rapid Acceleration of Diagnostics (RADx®)](https://www.nih.gov/research-training/medical-research-initiatives/radx) initiative. The goal of this initiative is to speed innovation in the development, commercialization, and implementation of technologies for COVID-19 testing.
 
 The RADx initiative includes the follwing projects:
 - [RADx Radical (RADx-rad)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-rad)
@@ -31,7 +31,7 @@ Click on the images below for a higher-resolution view.
 <img src="docs/Metagraph.png", width="100%">
 </p>
 
-Figure 1: The meta graph shows the relationships among the nodes.
+Figure 1: The metagraph shows the relationships among the nodes (digital assets).
 
 ## Example Subgraphs
 
@@ -53,23 +53,6 @@ Figure 3: Subgraph for PI John Cirrito.
 </p>
 
 Figure 4: Extended Subgraph for PI John Cirrito with paper citations and dataset usages.
-
-<!-- <p align="center">
-<img src="docs/Subgraph3.png", width="100%">
-</p> -->
-<!-- Figure 4: Subgraph for PI David Wong
-
-<p align="center">
-<img src="docs/Subgraph4.png", width="100%">
-</p>
-
-Figure 5: Subgraph for PI Jesse Jokerts
-
-<p align="center">
-<img src="docs/Subgraph5.png", width="100%">
-</p>
-
-Figure 6: Subgraph for University of Miami -->
 
 ## Explore the radx-kg
 Click on the ```Open in Colab``` button below to launch a Jupyter Notebook and run queries on the radx-kg.
