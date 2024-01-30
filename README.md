@@ -64,7 +64,6 @@ Click on the ```Open in Colab``` button below to launch a Jupyter Notebook and r
 | Directory | Description| 
 | ----------| ---------- |
 | data      | Manually maintained files with core information to seed the Knowledge Graph |
-| derived_data | Intermediate data files used during development |
 | kg        | Node and relationship data and metadata files to create the Knowledge Graph | 
 | scripts   | scripts to generate the Neo4j Knowledge Graph |
 

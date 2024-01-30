@@ -1,6 +1,9 @@
 from,to
+s2authorid:2072483999,dbgap:phs003124.v1.p1
+s2authorid:2184494479,dbgap:phs003124.v1.p1
 s2authorid:2072483999,dbgap:phs002964.v1.p1
 s2authorid:2184494479,dbgap:phs002964.v1.p1
+s2authorid:1792468,dbgap:phs002945.v1.p1
 s2authorid:2072483999,dbgap:phs002945.v1.p1
 s2authorid:40344211,dbgap:phs002945.v1.p1
 s2authorid:2184494479,dbgap:phs002945.v1.p1
@@ -9,6 +12,7 @@ s2authorid:2184494479,dbgap:phs002924.v1.p1
 s2authorid:2072483999,dbgap:phs002782.v1.p1
 s2authorid:2184494479,dbgap:phs002782.v1.p1
 s2authorid:2072483999,dbgap:phs002781.v1.p1
+,dbgap:phs002781.v1.p1
 s2authorid:40344211,dbgap:phs002781.v1.p1
 s2authorid:2184494479,dbgap:phs002781.v1.p1
 s2authorid:2184494479,dbgap:phs002778.v1.p1
@@ -33,6 +37,7 @@ s2authorid:2184494479,dbgap:phs002685.v1.p1
 s2authorid:2072483999,dbgap:phs002679.v1.p1
 s2authorid:2184494479,dbgap:phs002679.v1.p1
 s2authorid:2072483999,dbgap:phs002657.v1.p1
+s2authorid:1397184885,dbgap:phs002657.v1.p1
 s2authorid:2184494479,dbgap:phs002657.v1.p1
 s2authorid:2072483999,dbgap:phs002642.v1.p1
 s2authorid:2184494479,dbgap:phs002642.v1.p1
@@ -97,5 +102,3 @@ s2authorid:2072483999,dbgap:phs002523.v1.p1
 s2authorid:2184494479,dbgap:phs002523.v1.p1
 s2authorid:2072483999,dbgap:phs002522.v1.p1
 s2authorid:2184494479,dbgap:phs002522.v1.p1
-s2authorid:2072483999,dbgap:phs003124.v1.p1
-s2authorid:2184494479,dbgap:phs003124.v1.p1

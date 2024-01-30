@@ -9,3 +9,4 @@ doi,string,Digital Object Identifier of the publication,doi:0.1371/journal.pone.
 pmId,string,PubMed identifier of the publication,37590297
 pmcId,string,PubMedCentral identifier of the publication full text entry,PMC10434860
 url,string,URL of publication,https://doi.org/10.1371%2Fjournal.pone.0290256
+embedding,float[],Embedding of title and abstract using SPECTER (https://github.com/allenai/specter),"0.1404,-0.9137, ..."
