@@ -40,7 +40,9 @@ def create_chunks(data, chunk_size):
         [[1, 2, 3], [4, 5, 6], [7, 8]]
     """
     # split list into chunks of max size: chunk_size
-    return [data[i:i + chunk_size] for i in range(0, len(data), chunk_size)]
+    #return [data[i:i + chunk_size] for i in range(0, len(data), chunk_size
+    for i in range(0, len(data), chunk_size):
+        yield data[i:i + chunk_size]
 
 
 def fuzzy_merge(df1, df2, left_fuzzy_on, right_fuzzy_on, left_on=None, right_on=None, how="inner", threshold=0.9):
@@ -130,6 +132,7 @@ def author_match2(target_author, source_authors, threshold):
 
 
     return matches
+
 
 # def download_dbgap_studies(query, filepath):
 #     query_dbgap(query)

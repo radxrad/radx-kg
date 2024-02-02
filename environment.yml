@@ -26,4 +26,5 @@ dependencies:
   - openjdk=17.0.8
   - python-dotenv=1.0.0
   - ipycytoscape
+  - plotly
 
