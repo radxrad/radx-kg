@@ -20,7 +20,7 @@ The radx-kg links the following assets:
 - [Publications (primary)](kg/data/nodes/Publication_primary.csv)
 - [Publications (secondary)](kg/data/nodes/Publication_secondary.csv)
 - [Datasets](kg/data/nodes/Dataset.csv)
-- [Software](kg/data/nodes/Software.csv)
+- [Software](kg/data/nodes/Software_manually.csv)
 - [Patents](kg/data/nodes/Patent.csv)
 - [Presentations](kg/data/nodes/Presentation.csv)
 - [Events](kg/data/nodes/Event.csv)
