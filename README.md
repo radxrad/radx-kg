@@ -13,7 +13,8 @@ The RADx initiative includes the follwing projects:
 The radx-kg links the following assets:
 - [Funding Opportunities](kg/data/nodes/FundingOpportunity.csv)
 - [Grants](kg/data/nodes/Grant.csv)
-- [Researchers](kg/data/nodes/Researcher.csv)
+- [Researchers(PIs)](kg/data/nodes/Researcher_investigators.csv)
+- [Researchers(coauthors)](kg/data/nodes/Researcher_primary_coauthors.csv)
 - [Organizations](kg/data/nodes/Organization.csv)
 - [ResearchInitiatives](kg/data/nodes/ResearchInitiative.csv)
 - [Publications (primary)](kg/data/nodes/Publication_primary.csv)
