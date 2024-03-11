@@ -58,7 +58,11 @@ Figure 4: Extended Subgraph for PI John Cirrito with paper citations and dataset
 ## Explore the radx-kg
 Click on the ```Open in Colab``` button below to launch a Jupyter Notebook and run queries on the radx-kg.
 
+**RADx-rad Explorer**
 [RADx-rad_Explorer.ipynb](notebooks/visualization/RADx-rad_Explorer.ipynb) <a target="_blank" href="https://colab.research.google.com/github/radxrad/radx-kg/blob/main/notebooks/visualization/RADx-rad_Explorer.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+
+**AMIA 2024 Notebook**
+[RADx-rad_Explorer.ipynb](notebooks/visualization/RADx-rad_Explorer.ipynb) <a target="_blank" href="https://colab.research.google.com/github/radxrad/radx-kg/blob/main/notebooks/visualization/AMIA-2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 ## Directories and Files
 
