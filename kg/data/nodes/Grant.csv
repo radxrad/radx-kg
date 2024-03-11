@@ -83,39 +83,7 @@ research buildings, and medical facilities, we will optimize WBT surveillance st
 building level, surrounding sewersheds and wastewater treatment plants and model case counts using
 normalized WBT data. We will further leverage metatranscriptomics for rapid identification of SARS-CoV-2
 transmission chains and develop point-of-use microfluidics systems for timely WBT.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
-U01HL150852,Rutgers Optimizes Innovation (ROI) Program,"The Rutgers Optimizes Innovation (ROI) Program will provide a vertically integrated mechanism to swiftly
-uncover promising biomedical product discoveries, and seamlessly guide the innovator through the
-commercialization process with financial and regulatory, IP protection, mentoring, management, and educational
-resources. Drawing on the biomedical/bioengineering sciences across Rutgers and on the solid expertise of the
-Office of Research Commercialization (ORC), we will integrate our strengths to uncover, develop and
-commercialize discoveries that improve health and well-being, and train the next generation of innovators. The
-ROI Program comprises a cooperative of Rutgers University and affiliates that includes the schools of
-engineering, arts and sciences, schools of medicine, nursing, dental science, public health, and research
-institutes and centers, industries, incubators, funders and policymakers.
- All entities provide significant resources to the ROI Program and have contributed to the planning, development,
-and leadership composition of the cooperative. Based in one of the most productive states with respect to
-commercialization of health-related discoveries (assets), the ROI Program will serve as a platform for translating
-biomedical discoveries into marketable products. Our REACH Hub will identify innovative health-related
-technologies by using the expertise of the NCI-funded Cancer Institute of NJ (CINJ), the Rutgers Institute for
-Translational Medicine and Science (RITMS, lead of the NCATS-funded CTSA) and the Biomaterials Center,
-funded by NSF and DOD. These technologies will be evaluated for commercialization feasibility, especially with
-respect to providing precision therapy to tackle an unmet need created by the heterogeneity of disease
-pathogenesis and response to treatment. Addressing such unmet needs will provide assets tailored to patients’
-therapeutic responses that ultimately improves population health.
- The ROI Program will provide a streamlined and harmonized infrastructure that will enhance commercialization
-of academic discovery. The educational programs embedded in the ROI Program will provide our innovators
-with hands-on, practical training in product development and start-up requirements, while also training a diverse
-workforce in biomedical innovation by leveraging, coalescing and repurposing current resources, including I-
-Corps and iJOBS. Implementing a unique project management and mentoring program comprised of industry,
-disease-state and content experts will also enhance innovators’ opportunity for success. Embracing a Fail Fast
-Philosophy assures the technology will be developed in a cost-effective and market-conscious manner. Across
-all Aims, the ROI Program will collaborate with the REACH Consortium to build on their advances in platforms for
-commercialization, technology review, and training, and provide the Consortium with our expertise and commitment to
-serve as an active participating member. Importantly, evaluation milestones and metrics are planned in all aspects
-of the ROI Program to assure continuous quality assessment, improvement and sustainability.","The Rutgers Optimizes Innovation (ROI) Program will accelerate the transformation of the most promising
-research discoveries into marketed products designed to provide the right therapy to the right patient at
-the right time. By identifying and advancing the most promising and transformative therapeutic and diagnostic
-technologies in precision medicine, ROI will impact the health and well-being of a diverse society.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
+U01HL150852,,,,,,RADx-rad,Novel Biosensing and VOC
 R33HD105594,Diagnosis of MIS-C in febrile children,"The recent emergence of SARS-CoV-2 and resultant pandemic of COVID-19 disease has overwhelmed global
 health systems and led to over 200,000 American deaths to date. While initial reports suggested that SARS-
 CoV-2 infection in children was generally benign, a novel post-inflammatory syndrome known as multisystem
@@ -500,72 +468,64 @@ progressive disease. To facilitate translation of the approaches developed in th
 incorporate a Translational Development function, to oversee the design-control process and ensure readiness of our
 methods for regulatory review. Incorporated into our timelines are appropriate regulatory milestones intended to
 conform with the Emergency Use Authorization (EUA) programs in effect for SARS-CoV-2 diagnostics.",Non-SBIR/STTR,R61,RADx-rad,PreVAIL kIds
-U01LM013129,Bioinformatics Framework for Wastewater-based Surveillance of Infectious Diseases,"Enabling access to comprehensive biomedical information is central to the mission of the National Library of
-Medicine and key to disease prevention for better health outcomes nationally and globally. In the area of
-infectious disease prevention, real time and non-biased sequence data are essential for early detection of
-threats to mitigate outbreaks, epidemics and pandemics. This proposed research project aims to innovate in
-the creation and accessibility of metagenomic sequence data relating to infectious agents by leveraging the
-potentially transformative tool of wastewater-based epidemiology (WBE). The WBE approach employs analysis
-of community wastewater from large populations to enable non-invasive, near real-time monitoring of both
-symptomatic and asymptomatic individuals. When combined with high-throughput metagenomic sequencing
-(HTS), the resulting WBE-HTS approach is promising for detecting a broad spectrum of infectious agents
-simultaneously without any a priori assumptions about virus identity or presence. This project will test the
-hypothesis that the processing of aggregated metagenomic sequence data on viruses detectable in U.S.
-wastewater can serve to identify vulnerabilities, outbreaks and epidemics early, thereby creating a novel and
-potentially life-saving diagnostic approach for protecting public health.
- For hypothesis testing, the team will leverage Arizona State University's Human Health Observatory (HHO),
-the largest sewage monitoring network and largest archive of sewage and sludge samples worldwide,
-representing more than 200 U.S. cities and over 300 cities globally.
- The overall goal of this work is to develop a broadly applicable online bioinformatics framework and to
-demonstrate its utility in a case study employing WBE and HTS.
- The three specific aims are to: (i) inventory viruses extant in the U.S. in a comprehensive database, using
-existing database sources and WBE; (ii) generate a knowledge repository and online portal of metagenomic
-data to support near real-time surveillance of the human–associated virome, and (iii) evaluate the utility of the
-WBE bioinformatics framework for tracking viral outbreaks and epidemics.
- Successful completion of this project will provide the U.S. with an early warning system for pathogen
-detection and outbreak tracking that can serve to prevent epidemics, thereby reducing morbidity and mortality
-in the U.S. from contagious pathogens, first for viruses and potentially in the future for pathogenic bacteria and
-other biohazards.","This biomedical informatics project will leverage high-throughput sequencing (HTS) data from U.S. wastewater
-process flows collected over the past two decades to create an innovative early warning system for virus
-surveillance and public health protection. It will furnish significantly expanded virome databases and an online
-tool enabling public health practitioners and researchers to rapidly detect characteristic sequences of
-pathogenic human viruses in DNA and RNA sequence data from environmental and clinical specimens.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
-U01HL152401,Washington Entrepreneurial Research Evaluation and Commercialization Hub,"The University of Washington and the entrepreneurial community seeks to partner with the National Institutes
-of Health to become a Research Evaluation and Commercialization Hub (REACH) to accelerate academic
-biomedical discoveries into products helping ease the highest U.S. burden of disease and disability.
-The UW is a powerhouse in health sciences, technology, and innovation in a city known for seeking solutions
-to the most pressing health problems around the world.
-The University’s long-standing relationship with the entrepreneurial business community has helped in the
-formation of Boeing, Microsoft, Amazon, Immunex, Zymogenetics, Teblos, the Drug Interaction Database, and
-Seattle Genetics. It’s also led to well-recognized recombinant therapeutic and vaccine products such as growth
-hormone, insulin, RecombiVax HB®, and Gardasil®.
-Many of our graduates work at major health organizations in the city, including The Gates Foundation, Path,
-Fred Hutchinson Cancer Research Center, the Infectious Disease Research Institute. The University’s Foster
-School of Business gathers business leaders to judge and mentor solutions to health problems, and major
-business leaders are part of the governing board of these organizations and the networking hub The
-Washington Global Health Alliance and The Innovation Hub of Life Sciences Washington.
-In this rich spirt of collaboration, a hub to accelerate promising biomedical discoveries would fit right in. A hub
-is needed to further energize the spirit of discovery and collaboration and overcome barriers in getting products
-to the public. A hub will leverage existing resources for translational research and support the journey to
-fruition to innovative products that change lives. With institutional co-funding commitments, strong support of
-community leaders, and proven leadership in entrepreneurial startups, the four Aims of this proposal are to (1)
-Develop an integrated infrastructure and implementation system; (2) Identify the most promising technologies,
-and increase their availability using milestone-driven gap funding and mentoring (in business, marketing, and
-networking) for market-driven proof-of-product concept and product definition; (3) Fuel the formation of new
-biotechnology, pharmaceutical, and medical device companies, and assist in pathways to a self-sustaining
-structure; (4) Train the next generation of biomedical entrepreneurs to lead these ventures.
-With NIH support, this hub will accelerate the creation of small businesses using biomedical discoveries to
-launch products that impact health outcomes. An investment in the Pacific Northwest will amplify the returns
-on this funding due to the critical mass of investigators, and the will of our institutions to make this happen.","This proposal plans to create a hub to accelerate academic biomedical discoveries into products
-helping ease the highest burden of disease and disability in the United States.
-The University of Washington and the region is a powerhouse in health sciences, technology,
-and collaboration but many promising ideas never get to market because of barriers in funding,
-connections to industry professionals or product development know-how. The Washington
-Entrepreneurial Research Evaluation and Commercialization Hub (WE-REACH) program will
-build on strengths and integration of the entrepreneurial and translational environment in the
-region to identify and accelerate promising products, foster milestone-driven project plans and
-translational teams, and then work with experts to overcome the barriers to create marketable
-health products.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
+U01LM013129,Bioinformatics Framework for Wastewater-based Surveillance of Infectious Diseases,"COVID-19 is expected to become one of the largest mass casualty events in the history of the United
+States (U.S.). Assessment of the true burden of disease in the population is needed for the prevention and
+mitigation of this and future viral disease outbreaks. Currently, testing of new cases (via swabs / saliva) and
+those previously exposed (via serum) has limited reach in the population. However, an alternative approach
+relying on the analysis of community wastewater can screen up to 70% of the U.S. population on a weekly
+basis at <0.01% of the cost of clinical screening of individuals. As a population-wide infectious disease
+surveillance tool, wastewater-based epidemiology (WBE) can be used to complement current surveillance
+methods to better understand disease burden and how these burdens differ across communities.
+ The goal of our proposed RADx-rad supplement is to implement and evaluate a near real-time WBE
+framework for SARS-CoV-2 by (i) assessing in near real-time community spread of the new coronavirus, (ii)
+significantly increasing the fraction of the U.S. population screened, the frequency at which this testing is being
+completed (weekly) and the geospatial resolution of screening (from city-wide to neighborhood-specific), (iii)
+comparing novel coronavirus levels in wastewater with the burdens of infection, disease and mortality reported
+by local health systems, (iv) harvesting high throughput sequence (HTS) data on SARS-CoV-2 variants across
+the U.S., (v) optimizing pipelines for HTS analysis, and (vi) immediately sharing any new knowledge gained
+with the RADx-rad Data Coordinating Center (DCC), research community, and the general public via an
+expansion of our online dashboard that was pioneered by the proposing team in collaboration with the City of
+Tempe, AZ.
+ We will leverage previously developed, peer-reviewed strategies for population-wide virus monitoring via
+reverse transcription real-time polymerase chain reaction (RT-qPCR), HTS, sequence analysis, and data
+communication originally developed for our parent award to quickly provide a data stream and scientific
+resource for managing the COVID-19 epidemic in the U.S.
+ In Aim 1, develop a wastewater-based epidemiology (WBE) bioinformatics framework for SARS-CoV-2 at
+the national, city and intra-sewershed or neighborhood-level to produce RT-qPCR and SARS-CoV-2 RNA-seq
+data for studying the distribution of viral levels and genetic polymorphisms in the community. In Aim 2, we will
+evaluate a WBE bioinformatics framework for translating SARS-CoV-2 data from RT-qPCR and high-
+throughput sequencing into information for monitoring population health.
+ Successful completion of this biomedical informatics project will provide the U.S. with an early warning
+system for SARS-CoV-2 detection and a tracking aid for public health epidemiologists seeking to reduce
+morbidity and mortality from infectious diseases like COVID-19 in the U.S.","This RADx-rad project will utilize wastewater-based epidemiology (WBE) and biomedical informatics to
+monitor SARS-CoV-2 across multiple U.S. cities. It will examine WBE at different scales (national, city and
+intra-sewershed or neighborhood-level), the geographic distribution and frequency of single nucleotide
+polymorphisms (SNPs), and the potential of WBE as an early indicator for changes in community level infection
+trends. Successful completion of the work will lead to a better understanding of how WBE can support
+population-level monitoring of SARS-CoV-2 and similar infectious disease threats.",Non-SBIR/STTR,U01,RADx-rad,Wastewater
+U01HL152401,Washington Entrepreneurial Research Evaluation and Commercialization Hub,"The overarching goal of the partnership between NIH and the University of Washington (UW) Entrepreneurial
+Center for Research Evaluation and Commercialization Hub (referred to as WE-REACH) is to facilitate and
+accelerate the transformation of health research innovations into products. This NIH funded WE-REACH
+Center is a National Center of REACH in the Northwest region. Two key objectives of the Center are to (1)
+assist investigators with innovative technologies to establish proof-of-product concept definition (2) facilitating
+the formation of spinout companies on track to a self-sustaining structure. With well-established expertise,
+know-how and infrastructure to assist the Research and Development of the following two Covid-19 technical-
+ready Covid-19 research and develop projects intended to verify proof-of-product concepts with working
+prototype.
+(1) Aptamer-based highly sensitive biosensors for salivary COVID-19 antigen detection (Pun)
+(2) Broad-spectrum detection of VOC and non-VOC biomarkers from patient exhalant using biomimetic
+multiplexed eNose biosensor for COVID-19 diagnosis (Saikaya)
+The two technically sound approaches employ by the point-of-care device candidates intend to detect viral
+antigen in saliva and exhalant biomarker signatures from infected subjects without having to send sample to a
+centralized facility or a long wait-time for results. WE-REACH will assist the investigators in developing
+milestone-driven, stage-gated, activity-based project planning and tracking to accelerate proof-of-product
+concept studies within 2-year of funding. The study results will provide measurable outcomes that are deemed
+sufficient for upscaling and appropriate for follow-on funding.","This supplement is intend to support and assist two investigators with technical-ready innovative Covid-19 test
+in accelerating product research and development plan so that portable, easy to use devices and reagents will
+be available for implementation outside of hospital and clinical laboratories and accessible in the community to
+readily identify infected individuals locally and at the point-of-contact (in minutes, instead of days).
+Availability of such easy-to-use tests with rapid turn-around time could prevent spread of Covid-19 world-
+wide.",Non-SBIR/STTR,U01,RADx-rad,Novel Biosensing and VOC
 U18TR003812,COVID-19 detection through scent analysis with a compact GC device,"Recent studies, including ours, have suggested that breath may allow us to diagnose COVID-19 infection
 and even monitor its progress. As compared to immunological and genetic based methods using sample media
 like blood, nasopharyngeal swab, and saliva, breath analysis is non-invasive, simple, safe, and inexpensive; it
